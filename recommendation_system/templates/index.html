@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Category Product Recommendation System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            text-align: center;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+        .header h1 {
+            font-size: 2.8rem;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 15px;
+        }
+        .header p {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .category-tabs {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .tab-button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 25px;
+            background: rgba(255, 255, 255, 0.7);
+            color: #333;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(5px);
+        }
+        .tab-button:hover {
+            background: rgba(255, 255, 255, 0.9);
+            transform: translateY(-2px);
+        }
+        .tab-button.active {
+            background: #667eea;
+            color: white;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
+        .dashboard {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        .control-panel {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            height: fit-content;
+        }
+        .results-panel {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #333;
+        }
+        .form-group select,
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 14px;
+            transition: border-color 0.3s ease;
+        }
+        .form-group select:focus,
+        .form-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .recommend-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .recommend-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .product-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+            border-color: #667eea;
+        }
+        .product-title {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .product-price {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        .product-rating {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .stars {
+            color: #ffd700;
+            margin-right: 5px;
+        }
+        .product-details {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.5;
+        }
+        .category-badge {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 12px;
+            margin-bottom: 10px;
+        }
+        .dataset-info {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            margin-top: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+        .dataset-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .dataset-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        .dataset-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        .dataset-link {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            text-decoration: none;
+            font-size: 14px;
+            margin-top: 10px;
+            transition: all 0.3s ease;
+        }
+        .dataset-link:hover {
+            background: #5a67d8;
+            transform: translateY(-2px);
+        }
+        .no-results {
+            text-align: center;
+            color: #666;
+            font-size: 1.2rem;
+            padding: 40px;
+        }
+        @media (max-width: 768px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+            .header h1 {
+                font-size: 2rem;
+            }
+            .category-tabs {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100vw;
+            height: 100vh;
+            overflow: auto;
+            background: rgba(0,0,0,0.5);
+        }
+        .modal-content {
+            background: #fff;
+            margin: 5% auto;
+            padding: 30px 40px;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 500px;
+            position: relative;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        .close {
+            color: #aaa;
+            position: absolute;
+            top: 18px;
+            right: 28px;
+            font-size: 2rem;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .close:hover { color: #667eea; }
+        .modal-details-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #667eea;
+        }
+        .modal-details-row {
+            margin-bottom: 10px;
+        }
+        .modal-details-label {
+            font-weight: bold;
+            color: #333;
+        }
+        .buy-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 12px 32px;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            text-decoration: none;
+            margin-top: 10px;
+            transition: background 0.3s, transform 0.2s;
+        }
+        .buy-btn:hover {
+            background: #5a67d8;
+            transform: translateY(-2px) scale(1.04);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🛍️ Multi-Category Product Recommendation System</h1>
+            <p>Discover personalized product recommendations across 6 major categories</p>
+            <div class="category-tabs">
+                <button class="tab-button active" onclick="switchCategory('ecommerce')">🛒 E-Commerce</button>
+                <button class="tab-button" onclick="switchCategory('electronics')">🖥️ Electronics</button>
+                <button class="tab-button" onclick="switchCategory('vehicles')">🚗 Vehicles</button>
+                <button class="tab-button" onclick="switchCategory('clothing')">👕 Clothing</button>
+                <button class="tab-button" onclick="switchCategory('food')">🍔 Food</button>
+                <button class="tab-button" onclick="switchCategory('toys')">🧸 Toys</button>
+                <button class="tab-button" onclick="switchCategory('mobile')">📱 Mobile</button>
+                <button class="tab-button" onclick="switchCategory('pc')">💻 PC</button>
+            </div>
+        </div>
+
+        <div class="dashboard">
+            <div class="control-panel">
+                <h3>🎯 Recommendation Settings</h3>
+                <div class="form-group">
+                    <label for="recommendationType">Recommendation Type:</label>
+                    <select id="recommendationType">
+                        <option value="top_rated">Top Rated Products</option>
+                        <option value="price_based">Price-Based</option>
+                        <option value="category_popular">Most Popular</option>
+                        <option value="random">Random Selection</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="priceMin">Min Price (Rs.):</label>
+                    <input type="number" id="priceMin" value="0" min="0">
+                </div>
+                <div class="form-group">
+                    <label for="priceMax">Max Price (Rs.):</label>
+                    <input type="number" id="priceMax" value="500000" min="0">
+                </div>
+                <div class="form-group">
+                    <label for="numResults">Number of Results:</label>
+                    <select id="numResults">
+                        <option value="6">6 Products</option>
+                        <option value="9">9 Products</option>
+                        <option value="12">12 Products</option>
+                        <option value="15">15 Products</option>
+                    </select>
+                </div>
+                <button class="recommend-btn" onclick="generateRecommendations()">
+                    🔍 Get Recommendations
+                </button>
+            </div>
+
+            <div class="results-panel">
+                <h3 id="resultsTitle">🛒 E-Commerce Recommendations</h3>
+                <div id="productsContainer">
+                    <div class="no-results">
+                        Click "Get Recommendations" to see personalized product suggestions
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Product Details Modal -->
+        <div id="productModal" class="modal" style="display:none;">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <div id="modalDetails"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Exchange rate logic
+        let usdToLkrRate = null;
+        let rateLoaded = false;
+        let rateError = false;
+        const DEFAULT_RATE = 300;
+
+        async function fetchExchangeRate() {
+            try {
+                const res = await fetch('https://api.exchangerate-api.com/v4/latest/USD');
+                const data = await res.json();
+                usdToLkrRate = data.rates.LKR;
+                rateLoaded = true;
+                rateError = false;
+            } catch (e) {
+                usdToLkrRate = DEFAULT_RATE;
+                rateLoaded = true;
+                rateError = true;
+            }
+        }
+
+        // Fetch rate on page load
+        fetchExchangeRate().then(() => {
+            // Optionally, you can auto-generate recommendations after rate loads
+            // generateRecommendations();
+        });
+
+        let currentCategory = 'ecommerce';
+
+        function switchCategory(category) {
+            currentCategory = category;
+            
+            // Update active tab
+            document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Update results title
+            const titles = {
+                ecommerce: '🛒 E-Commerce Recommendations',
+                electronics: '🖥️ Electronics Recommendations',
+                mobile: '📱 Mobile Recommendations',
+                pc: '💻 PC Recommendations',
+                vehicles: '🚗 Vehicle Recommendations',
+                clothing: '👕 Clothing Recommendations',
+                food: '🍔 Food Recommendations',
+                toys: '🧸 Toy Recommendations'
+            };
+            document.getElementById('resultsTitle').textContent = titles[category];
+            
+            // Clear results
+            document.getElementById('productsContainer').innerHTML = '<div class="no-results">Click "Get Recommendations" to see personalized product suggestions</div>';
+        }
+
+        // Category mapping for backend API
+        const categoryMap = {
+            ecommerce: "E-Commerce",
+            electronics: "Electronics",
+            mobile: "Mobile",
+            pc: "PC",
+            vehicles: "Vehicles",
+            clothing: "Clothing",
+            food: "Food",
+            toys: "Toys"
+        };
+
+        async function generateRecommendations() {
+            const recommendationType = document.getElementById('recommendationType').value;
+            const priceMin = parseFloat(document.getElementById('priceMin').value) || 0;
+            const priceMax = parseFloat(document.getElementById('priceMax').value) || 500000;
+            const numResults = parseInt(document.getElementById('numResults').value);
+
+            const container = document.getElementById('productsContainer');
+            container.innerHTML = '<div class="no-results">Loading products...</div>';
+
+            // Use mapped category for API call
+            const apiCategory = categoryMap[currentCategory] || currentCategory;
+
+            try {
+                const response = await fetch(`/api/products?category=${encodeURIComponent(apiCategory)}&limit=${numResults}`);
+                const data = await response.json();
+                if (!data.products || !Array.isArray(data.products)) {
+                    container.innerHTML = '<div class="no-results">No products found for this category.</div>';
+                    return;
+                }
+                // Filter by price range
+                let products = data.products.filter(product => {
+                    const price = parseFloat(product.price);
+                    return !isNaN(price) && price >= priceMin && price <= priceMax;
+                });
+                // Apply sorting based on recommendation type
+                switch(recommendationType) {
+                    case 'top_rated':
+                        products.sort((a, b) => (parseFloat(b.rating) || 0) - (parseFloat(a.rating) || 0));
+                        break;
+                    case 'price_based':
+                        products.sort((a, b) => (parseFloat(a.price) || 0) - (parseFloat(b.price) || 0));
+                        break;
+                    case 'category_popular':
+                        products.sort((a, b) => ((parseFloat(b.rating) || 0) * Math.random()) - ((parseFloat(a.rating) || 0) * Math.random()));
+                        break;
+                    case 'random':
+                        products = products.sort(() => Math.random() - 0.5);
+                        break;
+                }
+                // Limit results (in case filter reduces count)
+                products = products.slice(0, numResults);
+                displayProducts(products);
+            } catch (err) {
+                container.innerHTML = '<div class="no-results">Failed to load products. Please try again later.</div>';
+            }
+        }
+
+        function displayProducts(products) {
+            const container = document.getElementById('productsContainer');
+            if (!rateLoaded) {
+                container.innerHTML = '<div class="no-results">Loading exchange rate...</div>';
+                return;
+            }
+            if (products.length === 0) {
+                container.innerHTML = '<div class="no-results">No products found matching your criteria. Try adjusting the price range.</div>';
+                return;
+            }
+            const productCards = products.map((product, idx) => {
+                const stars = '★'.repeat(Math.floor(product.rating)) + '☆'.repeat(5 - Math.floor(product.rating));
+                const details = product.specs || product.details || product.description || 'Premium quality product';
+                const lkrPrice = Math.round(product.price * usdToLkrRate).toLocaleString();
+                return `
+                    <div class="product-card" onclick="showProductModal(${idx})">
+                        <div class="category-badge">${product.category}</div>
+                        <div class="product-title">${product.name}</div>
+                        <div class="product-price">Rs.${lkrPrice}${rateError ? ' <span style=\'color:red;font-size:12px\'>(est.)</span>' : ''}</div>
+                        <div class="product-rating">
+                            <span class="stars">${stars}</span>
+                            <span>${product.rating}/5</span>
+                        </div>
+                        <div class="product-details">
+                            <strong>Brand:</strong> ${product.brand}<br>
+                            <strong>Details:</strong> ${details}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            container.innerHTML = `<div class="product-grid">${productCards}</div>`;
+            window.currentDisplayedProducts = products;
+        }
+
+        function showProductModal(idx) {
+            const product = window.currentDisplayedProducts[idx];
+            if (!product) return;
+            const details = product.specs || product.details || product.description || 'Premium quality product';
+            const lkrPrice = rateLoaded ? Math.round(product.price * usdToLkrRate).toLocaleString() : '...';
+            // Determine buy link
+            let buyUrl = '';
+            const encodedName = encodeURIComponent(product.name);
+            if (product.category && product.category.toLowerCase().includes('electronics')) {
+                buyUrl = `https://www.amazon.com/s?k=${encodedName}`;
+            } else if (product.category && product.category.toLowerCase().includes('clothing')) {
+                buyUrl = `https://www.daraz.lk/catalog/?q=${encodedName}`;
+            } else if (product.category && product.category.toLowerCase().includes('food')) {
+                buyUrl = `https://www.woolworths.com.au/shop/search/products?searchTerm=${encodedName}`;
+            } else if (product.category && product.category.toLowerCase().includes('toys')) {
+                buyUrl = `https://www.toysrus.com/search?q=${encodedName}`;
+            } else if (product.category && product.category.toLowerCase().includes('vehicle')) {
+                buyUrl = `https://www.cars.com/shopping/results/?q=${encodedName}`;
+            } else {
+                buyUrl = `https://www.google.com/search?q=buy+${encodedName}`;
+            }
+            document.getElementById('modalDetails').innerHTML = `
+                <div class="modal-details-title">${product.name}</div>
+                <div class="modal-details-row"><span class="modal-details-label">Category:</span> ${product.category}</div>
+                <div class="modal-details-row"><span class="modal-details-label">Brand:</span> ${product.brand}</div>
+                <div class="modal-details-row"><span class="modal-details-label">Price:</span> Rs.${lkrPrice}${rateError ? ' <span style=\'color:red;font-size:12px\'>(est.)</span>' : ''}</div>
+                <div class="modal-details-row"><span class="modal-details-label">Rating:</span> ${product.rating} / 5</div>
+                <div class="modal-details-row"><span class="modal-details-label">Details:</span> ${details}</div>
+                <div style='margin-top:20px;text-align:center;'><a href='${buyUrl}' target='_blank' class='buy-btn'>🛒 Buy Now</a></div>
+            `;
+            document.getElementById('productModal').style.display = 'block';
+        }
+
+        function closeModal() {
+            document.getElementById('productModal').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

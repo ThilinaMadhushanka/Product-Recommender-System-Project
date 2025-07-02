@@ -1,0 +1,1001 @@
+name,price,rating,category,brand,specs,description
+Nabisco Food Model 102,17255.71,4.7,Food,Nabisco,"500ml, Diet",Food product by Nabisco with features like 500ml.
+Ford Vehicles Model 918,17274.95,4.7,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles product by Ford with features like 2.0L Hybrid.
+Samsung Mobile Model 642,13936.47,3.7,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+Ford Vehicles Model 532,33756.56,4.5,Vehicles,Ford,"Electric, 358mi range, Autopilot",Vehicles product by Ford with features like Electric.
+Tesla Vehicles Model 554,2863.06,4.6,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product by Tesla with features like 2.0L Hybrid.
+Apple Mobile Model 424,14517.05,4.0,Mobile,Apple,"512GB, A17 Pro",Mobile product by Apple with features like 512GB.
+Samsung Electronics Model 677,9735.66,4.8,Electronics,Samsung,"1080p Full HD, Android TV",Electronics product by Samsung with features like 1080p Full HD.
+Nabisco Food Model 588,17707.88,3.9,Food,Nabisco,"500ml, Diet",Food product by Nabisco with features like 500ml.
+Nike Clothing Model 841,38584.38,3.7,Clothing,Nike,"Size: M, Cotton, White",Clothing product by Nike with features like Size: M.
+Lego Toys Model 578,17361.18,4.3,Toys,Lego,"500 pieces, Multi-color",Toys product by Lego with features like 500 pieces.
+Hasbro Toys Model 543,8504.93,4.7,Toys,Hasbro,"Board Game, 2-6 Players",Toys product by Hasbro with features like Board Game.
+Samsung Mobile Model 203,49121.88,4.3,Mobile,Samsung,"64GB, MediaTek",Mobile product by Samsung with features like 64GB.
+Lenovo Tablet Model 206,48349.17,4.7,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+Bose Electronics Model 425,36129.44,3.6,Electronics,Bose,"1080p Full HD, Android TV",Electronics product by Bose with features like 1080p Full HD.
+Ford Vehicles Model 798,20642.82,4.6,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Xiaomi Mobile Model 418,45522.61,4.6,Mobile,Xiaomi,"512GB, A17 Pro",Mobile product by Xiaomi with features like 512GB.
+Nestle Food Model 699,29094.25,4.9,Food,Nestle,"500ml, Diet",Food product by Nestle with features like 500ml.
+Lenovo Tablet Model 268,32864.51,4.7,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+Nike Clothing Model 172,49946.47,4.5,Clothing,Nike,"Size: S, Wool, Blue",Clothing product by Nike with features like Size: S.
+Adidas Clothing Model 622,16209.57,3.6,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+Sony Electronics Model 282,16005.82,4.1,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics product by Sony with features like 4K UHD.
+Under Armour Clothing Model 840,48423.22,4.2,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Hasbro Toys Model 970,28285.71,3.8,Toys,Hasbro,"500 pieces, Multi-color",Toys product by Hasbro with features like 500 pieces.
+Pepsi Food Model 668,3861.61,4.5,Food,Pepsi,"1.5L, Carbonated",Food product by Pepsi with features like 1.5L.
+Bose Electronics Model 600,32624.7,3.5,Electronics,Bose,"Bluetooth Speaker, Waterproof",Electronics product by Bose with features like Bluetooth Speaker.
+Apple Tablet Model 685,46980.88,4.3,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+Puma Clothing Model 829,29650.92,4.9,Clothing,Puma,"Size: M, Cotton, White",Clothing product by Puma with features like Size: M.
+Puma Clothing Model 200,36881.72,4.2,Clothing,Puma,"Size: S, Wool, Blue",Clothing product by Puma with features like Size: S.
+OnePlus Mobile Model 900,431.95,4.6,Mobile,OnePlus,"512GB, A17 Pro",Mobile product by OnePlus with features like 512GB.
+Nike Clothing Model 300,35937.56,4.1,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Coca-Cola Food Model 782,43247.4,3.7,Food,Coca-Cola,"500ml, Diet",Food product by Coca-Cola with features like 500ml.
+Hot Wheels Toys Model 965,34098.08,4.8,Toys,Hot Wheels,"Die-cast, Model 2023",Toys product by Hot Wheels with features like Die-cast.
+Puma Clothing Model 275,43571.89,3.9,Clothing,Puma,"Size: XL, Cotton, Red",Clothing product by Puma with features like Size: XL.
+Samsung Tablet Model 308,36378.67,4.1,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product by Samsung with features like 12GB RAM.
+Mattel Toys Model 132,11530.93,4.7,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Hot Wheels Toys Model 639,16122.2,4.3,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product by Hot Wheels with features like Plush Toy.
+Adidas Clothing Model 174,3421.82,4.7,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+Hot Wheels Toys Model 571,15410.47,4.1,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys product by Hot Wheels with features like Board Game.
+Pepsi Food Model 752,25236.16,4.5,Food,Pepsi,"Family Pack, Chocolate",Food product by Pepsi with features like Family Pack.
+Samsung Electronics Model 188,32917.95,3.9,Electronics,Samsung,"4K UHD, HDR10, WebOS",Electronics product by Samsung with features like 4K UHD.
+Lenovo Tablet Model 487,29040.62,3.9,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+Puma Clothing Model 136,39405.43,5.0,Clothing,Puma,"Size: L, Polyester, Black",Clothing product by Puma with features like Size: L.
+Sony Electronics Model 509,44706.31,4.9,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics product by Sony with features like 4K UHD.
+Under Armour Clothing Model 585,23857.78,4.5,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Toyota Vehicles Model 145,40639.73,3.6,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product by Toyota with features like V6 Engine.
+Bose Electronics Model 273,44579.64,4.5,Electronics,Bose,"1080p Full HD, Android TV",Electronics product by Bose with features like 1080p Full HD.
+Nike Clothing Model 237,31075.9,3.9,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Lego Toys Model 241,17246.7,4.1,Toys,Lego,"Plush Toy, 12 inch",Toys product by Lego with features like Plush Toy.
+Tesla Vehicles Model 355,25028.02,3.7,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles product by Tesla with features like 1.5L Turbo.
+Hot Wheels Toys Model 663,23856.63,4.2,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys product by Hot Wheels with features like Board Game.
+Coca-Cola Food Model 552,46202.6,3.8,Food,Coca-Cola,"100g, Milk Chocolate",Food product by Coca-Cola with features like 100g.
+Lego Toys Model 445,41693.98,4.6,Toys,Lego,"Die-cast, Model 2023",Toys product by Lego with features like Die-cast.
+Puma Clothing Model 562,23376.83,5.0,Clothing,Puma,"Size: XL, Cotton, Red",Clothing product by Puma with features like Size: XL.
+Samsung Mobile Model 130,2111.29,3.8,Mobile,Samsung,"128GB, A15 Bionic",Mobile product by Samsung with features like 128GB.
+Xiaomi Mobile Model 555,39291.02,4.3,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile product by Xiaomi with features like 128GB.
+Samsung Tablet Model 498,12589.29,4.4,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Honda Vehicles Model 878,17832.53,4.4,Vehicles,Honda,"V6 Engine, 4x4 Drive",Vehicles product by Honda with features like V6 Engine.
+Apple Mobile Model 779,10609.9,4.8,Mobile,Apple,"64GB, MediaTek",Mobile product by Apple with features like 64GB.
+Coca-Cola Food Model 875,13380.69,4.4,Food,Coca-Cola,"100g, Milk Chocolate",Food product by Coca-Cola with features like 100g.
+Hasbro Toys Model 742,21661.38,4.4,Toys,Hasbro,"500 pieces, Multi-color",Toys product by Hasbro with features like 500 pieces.
+Coca-Cola Food Model 911,9064.6,3.9,Food,Coca-Cola,"500ml, Diet",Food product by Coca-Cola with features like 500ml.
+Apple Tablet Model 554,43932.15,3.6,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+Coca-Cola Food Model 348,44037.59,4.4,Food,Coca-Cola,"500ml, Diet",Food product by Coca-Cola with features like 500ml.
+Samsung Tablet Model 968,40421.07,4.1,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Under Armour Clothing Model 353,40547.23,4.0,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Adidas Clothing Model 806,47827.61,3.6,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+Nike Clothing Model 129,12538.53,4.7,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Xiaomi Mobile Model 648,28770.44,4.4,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile product by Xiaomi with features like 128GB.
+Toyota Vehicles Model 758,35832.86,4.8,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product by Toyota with features like Electric.
+Tesla Vehicles Model 763,29916.92,4.3,Vehicles,Tesla,"V6 Engine, 4x4 Drive",Vehicles product by Tesla with features like V6 Engine.
+Tesla Vehicles Model 817,34516.16,4.4,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product by Tesla with features like 2.0L Hybrid.
+Bose Electronics Model 789,32185.46,3.7,Electronics,Bose,"Noise Cancelling, Wireless",Electronics product by Bose with features like Noise Cancelling.
+Bose Electronics Model 214,44080.62,4.6,Electronics,Bose,"1080p Full HD, Android TV",Electronics product by Bose with features like 1080p Full HD.
+Apple Tablet Model 473,25370.43,4.5,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+LG Electronics Model 291,21881.23,4.5,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics product by LG with features like Bluetooth Speaker.
+Lego Toys Model 355,30234.81,4.1,Toys,Lego,"500 pieces, Multi-color",Toys product by Lego with features like 500 pieces.
+Toyota Vehicles Model 101,46804.78,3.8,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product by Toyota with features like V6 Engine.
+Toyota Vehicles Model 342,6993.13,4.8,Vehicles,Toyota,"2.0L Hybrid, 5 seats",Vehicles product by Toyota with features like 2.0L Hybrid.
+Nike Clothing Model 339,12285.06,3.6,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Mattel Toys Model 906,21253.16,4.8,Toys,Mattel,"Board Game, 2-6 Players",Toys product by Mattel with features like Board Game.
+Puma Clothing Model 537,45596.6,3.7,Clothing,Puma,"Size: S, Wool, Blue",Clothing product by Puma with features like Size: S.
+Sony Electronics Model 509,48577.73,4.5,Electronics,Sony,"Bluetooth Speaker, Waterproof",Electronics product by Sony with features like Bluetooth Speaker.
+Apple Mobile Model 405,19393.26,4.7,Mobile,Apple,"512GB, A17 Pro",Mobile product by Apple with features like 512GB.
+Adidas Clothing Model 999,3015.98,4.8,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+Nestle Food Model 442,26931.1,4.7,Food,Nestle,"Family Pack, Chocolate",Food product by Nestle with features like Family Pack.
+Coca-Cola Food Model 455,6925.29,3.8,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Bose Electronics Model 786,45383.66,3.8,Electronics,Bose,"1080p Full HD, Android TV",Electronics product by Bose with features like 1080p Full HD.
+Ford Vehicles Model 965,1443.74,4.2,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Coca-Cola Food Model 764,23891.85,4.3,Food,Coca-Cola,"500ml, Diet",Food product by Coca-Cola with features like 500ml.
+Lenovo Tablet Model 480,14759.12,3.7,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Coca-Cola Food Model 649,12333.8,4.1,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Samsung Tablet Model 209,44972.99,4.7,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet product by Samsung with features like 6GB RAM.
+Apple Tablet Model 442,46523.39,3.7,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet product by Apple with features like 4GB RAM.
+Bose Electronics Model 854,40148.29,4.6,Electronics,Bose,"1080p Full HD, Android TV",Electronics product by Bose with features like 1080p Full HD.
+Lenovo Tablet Model 168,17764.47,4.1,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product by Lenovo with features like 12GB RAM.
+Samsung Mobile Model 133,8052.48,3.5,Mobile,Samsung,"128GB, A15 Bionic",Mobile product by Samsung with features like 128GB.
+LG Electronics Model 584,31439.43,4.5,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics product by LG with features like 4K UHD.
+Lenovo Tablet Model 327,758.53,3.7,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet product by Lenovo with features like 6GB RAM.
+Samsung Tablet Model 487,31653.61,4.5,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet product by Samsung with features like 6GB RAM.
+Under Armour Clothing Model 703,42092.32,3.6,Clothing,Under Armour,"Size: M, Cotton, White",Clothing product by Under Armour with features like Size: M.
+Tesla Vehicles Model 851,24511.39,4.2,Vehicles,Tesla,"Electric, 358mi range, Autopilot",Vehicles product by Tesla with features like Electric.
+Samsung Electronics Model 268,26350.03,5.0,Electronics,Samsung,"1080p Full HD, Android TV",Electronics product by Samsung with features like 1080p Full HD.
+Mattel Toys Model 645,738.49,4.7,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Apple Tablet Model 124,10781.84,4.1,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+Samsung Tablet Model 861,29909.26,4.2,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Xiaomi Mobile Model 586,24452.4,3.6,Mobile,Xiaomi,"512GB, A17 Pro",Mobile product by Xiaomi with features like 512GB.
+Honda Vehicles Model 188,26008.79,4.6,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles product by Honda with features like Electric.
+Honda Vehicles Model 941,21321.34,4.8,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product by Honda with features like 1.5L Turbo.
+Mattel Toys Model 559,35500.23,4.0,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Xiaomi Mobile Model 408,4652.99,3.6,Mobile,Xiaomi,"512GB, A17 Pro",Mobile product by Xiaomi with features like 512GB.
+Under Armour Clothing Model 471,17700.79,3.5,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Samsung Tablet Model 947,25339.79,3.5,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet product by Samsung with features like 4GB RAM.
+Samsung Mobile Model 499,41349.03,4.6,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+Honda Vehicles Model 304,12607.56,3.6,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product by Honda with features like 1.5L Turbo.
+Hasbro Toys Model 712,2924.9,3.9,Toys,Hasbro,"Die-cast, Model 2023",Toys product by Hasbro with features like Die-cast.
+Adidas Clothing Model 977,31147.09,3.8,Clothing,Adidas,"Size: M, Cotton, White",Clothing product by Adidas with features like Size: M.
+Under Armour Clothing Model 758,47248.04,3.8,Clothing,Under Armour,"Size: XL, Cotton, Red",Clothing product by Under Armour with features like Size: XL.
+Nestle Food Model 166,40311.28,4.0,Food,Nestle,"500ml, Diet",Food product by Nestle with features like 500ml.
+Lenovo Tablet Model 269,41990.91,5.0,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Lenovo Tablet Model 351,21840.21,5.0,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet product by Lenovo with features like 6GB RAM.
+Samsung Tablet Model 684,2409.53,3.7,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product by Samsung with features like 12GB RAM.
+Samsung Tablet Model 479,49742.37,4.0,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet product by Samsung with features like 4GB RAM.
+Honda Vehicles Model 937,5341.26,3.8,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product by Honda with features like 2.0L Hybrid.
+Coca-Cola Food Model 626,4524.41,4.8,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Ford Vehicles Model 200,28612.23,4.2,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Mattel Toys Model 379,11631.93,4.4,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Lenovo Tablet Model 741,20338.28,4.8,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Nestle Food Model 124,24192.95,4.8,Food,Nestle,"500ml, Diet",Food product by Nestle with features like 500ml.
+Sony Electronics Model 102,16919.41,4.4,Electronics,Sony,"Noise Cancelling, Wireless",Electronics product by Sony with features like Noise Cancelling.
+Apple Tablet Model 770,12424.55,4.0,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+Tesla Vehicles Model 498,39604.12,4.9,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles product by Tesla with features like 1.5L Turbo.
+Puma Clothing Model 481,44728.06,4.5,Clothing,Puma,"Size: L, Polyester, Black",Clothing product by Puma with features like Size: L.
+Coca-Cola Food Model 558,44708.64,4.0,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Sony Electronics Model 417,15113.43,4.4,Electronics,Sony,"Bluetooth Speaker, Waterproof",Electronics product by Sony with features like Bluetooth Speaker.
+Sony Electronics Model 126,38515.14,4.2,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics product by Sony with features like 4K UHD.
+Honda Vehicles Model 908,325.33,4.1,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product by Honda with features like 2.0L Hybrid.
+Toyota Vehicles Model 662,30388.56,4.4,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product by Toyota with features like Electric.
+Ford Vehicles Model 897,476.56,4.4,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Adidas Clothing Model 425,47173.37,3.6,Clothing,Adidas,"Size: S, Wool, Blue",Clothing product by Adidas with features like Size: S.
+Lego Toys Model 851,26783.95,3.9,Toys,Lego,"Plush Toy, 12 inch",Toys product by Lego with features like Plush Toy.
+Tesla Vehicles Model 339,47371.06,4.0,Vehicles,Tesla,"Electric, 358mi range, Autopilot",Vehicles product by Tesla with features like Electric.
+Sony Electronics Model 651,34985.21,4.9,Electronics,Sony,"Bluetooth Speaker, Waterproof",Electronics product by Sony with features like Bluetooth Speaker.
+Samsung Tablet Model 974,36261.02,4.2,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Tesla Vehicles Model 454,11514.22,4.6,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles product by Tesla with features like 1.5L Turbo.
+Adidas Clothing Model 483,40646.04,4.5,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+Mattel Toys Model 363,46619.88,3.5,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Samsung Mobile Model 531,22956.52,4.2,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product by Samsung with features like 256GB.
+Nabisco Food Model 377,17913.27,4.1,Food,Nabisco,"Family Pack, Chocolate",Food product by Nabisco with features like Family Pack.
+Samsung Mobile Model 856,28426.73,4.9,Mobile,Samsung,"64GB, MediaTek",Mobile product by Samsung with features like 64GB.
+Nestle Food Model 662,49437.28,4.0,Food,Nestle,"500ml, Diet",Food product by Nestle with features like 500ml.
+Pepsi Food Model 931,1178.81,4.3,Food,Pepsi,"Family Pack, Chocolate",Food product by Pepsi with features like Family Pack.
+Toyota Vehicles Model 575,15047.41,4.5,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles product by Toyota with features like 1.5L Turbo.
+OnePlus Mobile Model 375,16672.96,3.6,Mobile,OnePlus,"128GB, A15 Bionic",Mobile product by OnePlus with features like 128GB.
+Nike Clothing Model 997,8889.82,3.8,Clothing,Nike,"Size: M, Cotton, White",Clothing product by Nike with features like Size: M.
+Hot Wheels Toys Model 750,11097.09,3.6,Toys,Hot Wheels,"500 pieces, Multi-color",Toys product by Hot Wheels with features like 500 pieces.
+Pepsi Food Model 991,20103.42,4.0,Food,Pepsi,"500ml, Diet",Food product by Pepsi with features like 500ml.
+Mattel Toys Model 324,42904.8,4.5,Toys,Mattel,"Board Game, 2-6 Players",Toys product by Mattel with features like Board Game.
+Samsung Mobile Model 697,4834.93,3.7,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product by Samsung with features like 256GB.
+Puma Clothing Model 252,23527.79,4.2,Clothing,Puma,"Size: M, Cotton, White",Clothing product by Puma with features like Size: M.
+Lenovo Tablet Model 424,10461.26,4.9,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product by Lenovo with features like 12GB RAM.
+Nabisco Food Model 918,29621.3,3.6,Food,Nabisco,"100g, Milk Chocolate",Food product by Nabisco with features like 100g.
+Lego Toys Model 890,24213.21,4.5,Toys,Lego,"Board Game, 2-6 Players",Toys product by Lego with features like Board Game.
+Lenovo Tablet Model 922,15132.59,4.7,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+Samsung Tablet Model 539,27667.54,4.9,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Pepsi Food Model 681,13869.86,4.8,Food,Pepsi,"Family Pack, Chocolate",Food product by Pepsi with features like Family Pack.
+Hot Wheels Toys Model 705,45077.03,4.6,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product by Hot Wheels with features like Plush Toy.
+Hot Wheels Toys Model 355,9464.36,4.7,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product by Hot Wheels with features like Plush Toy.
+Honda Vehicles Model 386,38872.25,4.6,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product by Honda with features like 2.0L Hybrid.
+Samsung Electronics Model 959,13836.42,3.6,Electronics,Samsung,"4K UHD, HDR10, WebOS",Electronics product by Samsung with features like 4K UHD.
+Samsung Electronics Model 988,37595.35,3.6,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics product by Samsung with features like Bluetooth Speaker.
+Samsung Tablet Model 852,29728.39,5.0,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product by Samsung with features like 12GB RAM.
+Puma Clothing Model 524,34433.87,3.5,Clothing,Puma,"Size: L, Polyester, Black",Clothing product by Puma with features like Size: L.
+Apple Tablet Model 574,1006.29,4.5,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product by Apple with features like 12GB RAM.
+Bose Electronics Model 738,11526.89,4.3,Electronics,Bose,"4K UHD, HDR10, WebOS",Electronics product by Bose with features like 4K UHD.
+Lenovo Tablet Model 499,45000.11,4.6,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet product by Lenovo with features like 6GB RAM.
+Apple Tablet Model 314,42257.44,4.5,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet product by Apple with features like 4GB RAM.
+Toyota Vehicles Model 951,26371.12,4.0,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product by Toyota with features like V6 Engine.
+Coca-Cola Food Model 663,16063.72,4.3,Food,Coca-Cola,"500ml, Diet",Food product by Coca-Cola with features like 500ml.
+Bose Electronics Model 499,19039.25,4.4,Electronics,Bose,"1080p Full HD, Android TV",Electronics product by Bose with features like 1080p Full HD.
+Hot Wheels Toys Model 272,28258.92,4.1,Toys,Hot Wheels,"Die-cast, Model 2023",Toys product by Hot Wheels with features like Die-cast.
+Coca-Cola Food Model 292,24413.37,4.6,Food,Coca-Cola,"1.5L, Carbonated",Food product by Coca-Cola with features like 1.5L.
+Lenovo Tablet Model 690,23538.9,4.6,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product by Lenovo with features like 12GB RAM.
+Nestle Food Model 177,46696.61,4.4,Food,Nestle,"100g, Milk Chocolate",Food product by Nestle with features like 100g.
+Pepsi Food Model 975,1630.33,3.6,Food,Pepsi,"Family Pack, Chocolate",Food product by Pepsi with features like Family Pack.
+Honda Vehicles Model 657,45167.85,3.9,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product by Honda with features like 2.0L Hybrid.
+Hasbro Toys Model 545,1759.25,4.5,Toys,Hasbro,"Board Game, 2-6 Players",Toys product by Hasbro with features like Board Game.
+Nabisco Food Model 737,24355.39,4.8,Food,Nabisco,"Family Pack, Chocolate",Food product by Nabisco with features like Family Pack.
+Nestle Food Model 661,15827.93,4.2,Food,Nestle,"100g, Milk Chocolate",Food product by Nestle with features like 100g.
+Samsung Tablet Model 617,40550.15,4.7,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet product by Samsung with features like 4GB RAM.
+Samsung Mobile Model 164,9552.2,4.5,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+Pepsi Food Model 377,7672.37,3.8,Food,Pepsi,"1.5L, Carbonated",Food product by Pepsi with features like 1.5L.
+Adidas Clothing Model 269,9961.09,4.9,Clothing,Adidas,"Size: XL, Cotton, Red",Clothing product by Adidas with features like Size: XL.
+Microsoft Tablet Model 547,6264.2,3.9,Tablet,Microsoft,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Microsoft with features like 8GB RAM.
+Puma Clothing Model 766,5165.42,4.2,Clothing,Puma,"Size: L, Polyester, Black",Clothing product by Puma with features like Size: L.
+Sony Electronics Model 107,31164.14,4.6,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics product by Sony with features like 4K UHD.
+Mattel Toys Model 615,22884.06,4.3,Toys,Mattel,"Board Game, 2-6 Players",Toys product by Mattel with features like Board Game.
+Hasbro Toys Model 321,13548.38,3.9,Toys,Hasbro,"Board Game, 2-6 Players",Toys product by Hasbro with features like Board Game.
+Mattel Toys Model 497,12174.34,4.3,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Hot Wheels Toys Model 447,40670.88,4.0,Toys,Hot Wheels,"500 pieces, Multi-color",Toys product by Hot Wheels with features like 500 pieces.
+Coca-Cola Food Model 559,32305.28,3.6,Food,Coca-Cola,"100g, Milk Chocolate",Food product by Coca-Cola with features like 100g.
+Honda Vehicles Model 781,13912.64,4.4,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product by Honda with features like 1.5L Turbo.
+Samsung Mobile Model 241,40039.81,4.1,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product by Samsung with features like 256GB.
+Hasbro Toys Model 116,8060.5,4.0,Toys,Hasbro,"Plush Toy, 12 inch",Toys product by Hasbro with features like Plush Toy.
+LG Electronics Model 298,14718.42,3.6,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics product by LG with features like Bluetooth Speaker.
+Samsung Tablet Model 720,6760.59,4.7,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Lego Toys Model 678,11570.16,4.3,Toys,Lego,"Board Game, 2-6 Players",Toys product by Lego with features like Board Game.
+Apple Mobile Model 866,27049.65,4.7,Mobile,Apple,"128GB, A15 Bionic",Mobile product by Apple with features like 128GB.
+Samsung Tablet Model 927,48266.1,4.9,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet product by Samsung with features like 6GB RAM.
+Toyota Vehicles Model 987,17082.35,4.8,Vehicles,Toyota,"2.0L Hybrid, 5 seats",Vehicles product by Toyota with features like 2.0L Hybrid.
+Nabisco Food Model 859,31533.38,3.6,Food,Nabisco,"Family Pack, Chocolate",Food product by Nabisco with features like Family Pack.
+Pepsi Food Model 872,29372.02,3.5,Food,Pepsi,"1.5L, Carbonated",Food product by Pepsi with features like 1.5L.
+Puma Clothing Model 902,7510.07,3.7,Clothing,Puma,"Size: L, Polyester, Black",Clothing product by Puma with features like Size: L.
+Microsoft Tablet Model 858,15437.55,4.8,Tablet,Microsoft,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Microsoft with features like 8GB RAM.
+Apple Tablet Model 226,45537.74,3.8,Tablet,Apple,"6GB RAM, 64GB, MediaTek",Tablet product by Apple with features like 6GB RAM.
+Sony Electronics Model 417,48909.28,4.4,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics product by Sony with features like 4K UHD.
+Microsoft Tablet Model 749,19918.33,3.7,Tablet,Microsoft,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Microsoft with features like 8GB RAM.
+Nike Clothing Model 109,20330.21,3.5,Clothing,Nike,"Size: L, Polyester, Black",Clothing product by Nike with features like Size: L.
+Microsoft Tablet Model 864,30014.1,4.0,Tablet,Microsoft,"6GB RAM, 64GB, MediaTek",Tablet product by Microsoft with features like 6GB RAM.
+Samsung Mobile Model 439,26316.46,4.2,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+OnePlus Mobile Model 629,30551.7,4.2,Mobile,OnePlus,"512GB, A17 Pro",Mobile product by OnePlus with features like 512GB.
+Bose Electronics Model 111,5490.69,4.2,Electronics,Bose,"Bluetooth Speaker, Waterproof",Electronics product by Bose with features like Bluetooth Speaker.
+OnePlus Mobile Model 195,40634.81,5.0,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile product by OnePlus with features like 256GB.
+Hasbro Toys Model 996,44744.19,4.1,Toys,Hasbro,"Plush Toy, 12 inch",Toys product by Hasbro with features like Plush Toy.
+Nike Clothing Model 529,33482.42,4.6,Clothing,Nike,"Size: M, Cotton, White",Clothing product by Nike with features like Size: M.
+Samsung Tablet Model 444,48850.58,4.3,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product by Samsung with features like 12GB RAM.
+Samsung Tablet Model 117,26937.61,4.5,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product by Samsung with features like 12GB RAM.
+Samsung Tablet Model 694,21661.59,3.9,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet product by Samsung with features like 4GB RAM.
+Puma Clothing Model 566,12890.7,3.6,Clothing,Puma,"Size: L, Polyester, Black",Clothing product by Puma with features like Size: L.
+Lego Toys Model 512,23039.05,4.1,Toys,Lego,"Die-cast, Model 2023",Toys product by Lego with features like Die-cast.
+Xiaomi Mobile Model 358,23537.31,4.6,Mobile,Xiaomi,"64GB, MediaTek",Mobile product by Xiaomi with features like 64GB.
+Lego Toys Model 843,11671.78,3.8,Toys,Lego,"500 pieces, Multi-color",Toys product by Lego with features like 500 pieces.
+Hot Wheels Toys Model 237,2596.64,3.8,Toys,Hot Wheels,"Die-cast, Model 2023",Toys product by Hot Wheels with features like Die-cast.
+Nabisco Food Model 908,12976.66,4.7,Food,Nabisco,"1.5L, Carbonated",Food product by Nabisco with features like 1.5L.
+Hot Wheels Toys Model 827,49840.42,3.7,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys product by Hot Wheels with features like Board Game.
+Coca-Cola Food Model 527,42746.16,4.1,Food,Coca-Cola,"1.5L, Carbonated",Food product by Coca-Cola with features like 1.5L.
+Samsung Electronics Model 202,32087.95,4.4,Electronics,Samsung,"Noise Cancelling, Wireless",Electronics product by Samsung with features like Noise Cancelling.
+Toyota Vehicles Model 292,21069.32,3.5,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product by Toyota with features like Electric.
+Lenovo Tablet Model 841,2084.45,3.6,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+Samsung Mobile Model 425,35669.89,4.3,Mobile,Samsung,"64GB, MediaTek",Mobile product by Samsung with features like 64GB.
+Apple Mobile Model 462,19028.38,3.8,Mobile,Apple,"64GB, MediaTek",Mobile product by Apple with features like 64GB.
+Coca-Cola Food Model 367,24300.84,4.4,Food,Coca-Cola,"1.5L, Carbonated",Food product by Coca-Cola with features like 1.5L.
+Samsung Mobile Model 225,14264.77,3.8,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+Coca-Cola Food Model 751,31503.52,4.0,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Ford Vehicles Model 649,6087.09,4.0,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Pepsi Food Model 500,34378.78,3.7,Food,Pepsi,"500ml, Diet",Food product by Pepsi with features like 500ml.
+Coca-Cola Food Model 163,37011.55,4.1,Food,Coca-Cola,"1.5L, Carbonated",Food product by Coca-Cola with features like 1.5L.
+Hasbro Toys Model 239,25619.06,4.3,Toys,Hasbro,"500 pieces, Multi-color",Toys product by Hasbro with features like 500 pieces.
+Tesla Vehicles Model 590,6777.53,4.5,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles product by Tesla with features like 1.5L Turbo.
+Coca-Cola Food Model 144,2921.61,4.7,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Puma Clothing Model 792,48961.83,4.8,Clothing,Puma,"Size: S, Wool, Blue",Clothing product by Puma with features like Size: S.
+Samsung Tablet Model 173,12600.74,4.2,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Honda Vehicles Model 977,2445.6,4.8,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product by Honda with features like 1.5L Turbo.
+Under Armour Clothing Model 434,38253.24,4.9,Clothing,Under Armour,"Size: S, Wool, Blue",Clothing product by Under Armour with features like Size: S.
+Apple Mobile Model 846,46428.77,4.3,Mobile,Apple,"256GB, Snapdragon 8 Gen1",Mobile product by Apple with features like 256GB.
+Under Armour Clothing Model 345,24941.56,4.6,Clothing,Under Armour,"Size: M, Cotton, White",Clothing product by Under Armour with features like Size: M.
+Samsung Mobile Model 600,38039.73,4.3,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+Samsung Mobile Model 967,27079.45,4.4,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+Lego Toys Model 839,44641.16,3.6,Toys,Lego,"500 pieces, Multi-color",Toys product by Lego with features like 500 pieces.
+Pepsi Food Model 326,18010.2,4.6,Food,Pepsi,"100g, Milk Chocolate",Food product by Pepsi with features like 100g.
+Coca-Cola Food Model 995,9435.27,4.0,Food,Coca-Cola,"1.5L, Carbonated",Food product by Coca-Cola with features like 1.5L.
+LG Electronics Model 198,13120.73,3.7,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics product by LG with features like Bluetooth Speaker.
+Hot Wheels Toys Model 855,29873.96,3.9,Toys,Hot Wheels,"500 pieces, Multi-color",Toys product by Hot Wheels with features like 500 pieces.
+Tesla Vehicles Model 110,31556.53,4.7,Vehicles,Tesla,"Electric, 358mi range, Autopilot",Vehicles product by Tesla with features like Electric.
+Honda Vehicles Model 825,45881.22,4.6,Vehicles,Honda,"V6 Engine, 4x4 Drive",Vehicles product by Honda with features like V6 Engine.
+Samsung Electronics Model 420,30786.83,4.0,Electronics,Samsung,"4K UHD, HDR10, WebOS",Electronics product by Samsung with features like 4K UHD.
+Samsung Electronics Model 326,5238.99,3.7,Electronics,Samsung,"4K UHD, HDR10, WebOS",Electronics product by Samsung with features like 4K UHD.
+Lenovo Tablet Model 618,32058.97,4.6,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product by Lenovo with features like 12GB RAM.
+Xiaomi Mobile Model 274,13736.4,3.9,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product by Xiaomi with features like 256GB.
+OnePlus Mobile Model 149,32589.41,4.0,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile product by OnePlus with features like 256GB.
+Puma Clothing Model 448,13849.72,3.8,Clothing,Puma,"Size: M, Cotton, White",Clothing product by Puma with features like Size: M.
+Nabisco Food Model 304,48912.61,4.0,Food,Nabisco,"500ml, Diet",Food product by Nabisco with features like 500ml.
+Nestle Food Model 166,45898.23,4.8,Food,Nestle,"100g, Milk Chocolate",Food product by Nestle with features like 100g.
+Lenovo Tablet Model 785,173.59,4.3,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Microsoft Tablet Model 757,37294.75,4.3,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet product by Microsoft with features like 4GB RAM.
+Under Armour Clothing Model 994,45900.74,5.0,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Nike Clothing Model 158,16446.72,4.5,Clothing,Nike,"Size: L, Polyester, Black",Clothing product by Nike with features like Size: L.
+Nabisco Food Model 522,43968.13,4.1,Food,Nabisco,"100g, Milk Chocolate",Food product by Nabisco with features like 100g.
+Mattel Toys Model 854,3912.58,4.0,Toys,Mattel,"Board Game, 2-6 Players",Toys product by Mattel with features like Board Game.
+Lego Toys Model 646,28319.39,4.5,Toys,Lego,"Board Game, 2-6 Players",Toys product by Lego with features like Board Game.
+Coca-Cola Food Model 564,3709.16,3.8,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Lenovo Tablet Model 787,24795.25,4.4,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+Samsung Electronics Model 619,37225.69,4.5,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics product by Samsung with features like Bluetooth Speaker.
+Pepsi Food Model 476,2324.57,4.7,Food,Pepsi,"100g, Milk Chocolate",Food product by Pepsi with features like 100g.
+Nabisco Food Model 697,6723.12,4.4,Food,Nabisco,"1.5L, Carbonated",Food product by Nabisco with features like 1.5L.
+Xiaomi Mobile Model 669,4855.03,4.8,Mobile,Xiaomi,"512GB, A17 Pro",Mobile product by Xiaomi with features like 512GB.
+Honda Vehicles Model 939,32131.88,4.3,Vehicles,Honda,"V6 Engine, 4x4 Drive",Vehicles product by Honda with features like V6 Engine.
+Mattel Toys Model 587,38228.21,4.9,Toys,Mattel,"500 pieces, Multi-color",Toys product by Mattel with features like 500 pieces.
+Xiaomi Mobile Model 313,18474.68,5.0,Mobile,Xiaomi,"512GB, A17 Pro",Mobile product by Xiaomi with features like 512GB.
+Apple Tablet Model 650,14372.96,3.9,Tablet,Apple,"6GB RAM, 64GB, MediaTek",Tablet product by Apple with features like 6GB RAM.
+Tesla Vehicles Model 284,44230.68,3.6,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles product by Tesla with features like 1.5L Turbo.
+OnePlus Mobile Model 874,1783.22,4.7,Mobile,OnePlus,"512GB, A17 Pro",Mobile product by OnePlus with features like 512GB.
+Hasbro Toys Model 601,9933.19,4.3,Toys,Hasbro,"Die-cast, Model 2023",Toys product by Hasbro with features like Die-cast.
+Coca-Cola Food Model 443,928.86,4.2,Food,Coca-Cola,"500ml, Diet",Food product by Coca-Cola with features like 500ml.
+Xiaomi Mobile Model 119,2360.95,4.0,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product by Xiaomi with features like 256GB.
+Hot Wheels Toys Model 887,15046.24,4.2,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product by Hot Wheels with features like Plush Toy.
+OnePlus Mobile Model 487,44401.85,4.3,Mobile,OnePlus,"64GB, MediaTek",Mobile product by OnePlus with features like 64GB.
+Nabisco Food Model 251,9985.55,4.5,Food,Nabisco,"1.5L, Carbonated",Food product by Nabisco with features like 1.5L.
+Nestle Food Model 894,23237.3,4.6,Food,Nestle,"Family Pack, Chocolate",Food product by Nestle with features like Family Pack.
+Nestle Food Model 906,42339.91,4.2,Food,Nestle,"100g, Milk Chocolate",Food product by Nestle with features like 100g.
+Hot Wheels Toys Model 494,9283.01,4.7,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys product by Hot Wheels with features like Board Game.
+Sony Electronics Model 812,7696.86,3.9,Electronics,Sony,"Noise Cancelling, Wireless",Electronics product by Sony with features like Noise Cancelling.
+Apple Tablet Model 975,21009.53,3.8,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+Microsoft Tablet Model 796,8618.0,3.7,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet product by Microsoft with features like 4GB RAM.
+Honda Vehicles Model 558,40851.42,4.2,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product by Honda with features like 1.5L Turbo.
+Samsung Electronics Model 660,36185.92,4.5,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics product by Samsung with features like Bluetooth Speaker.
+LG Electronics Model 598,17133.8,4.6,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics product by LG with features like Bluetooth Speaker.
+Lenovo Tablet Model 478,32977.14,4.0,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Tesla Vehicles Model 725,46469.43,4.0,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product by Tesla with features like 2.0L Hybrid.
+Mattel Toys Model 967,46241.17,4.7,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Samsung Electronics Model 663,37193.7,4.2,Electronics,Samsung,"1080p Full HD, Android TV",Electronics product by Samsung with features like 1080p Full HD.
+Apple Mobile Model 527,36743.89,4.7,Mobile,Apple,"512GB, A17 Pro",Mobile product by Apple with features like 512GB.
+OnePlus Mobile Model 796,2961.04,3.8,Mobile,OnePlus,"128GB, A15 Bionic",Mobile product by OnePlus with features like 128GB.
+Nike Clothing Model 592,14708.95,3.5,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Puma Clothing Model 469,22916.78,4.9,Clothing,Puma,"Size: XL, Cotton, Red",Clothing product by Puma with features like Size: XL.
+Apple Tablet Model 883,5102.84,4.6,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet product by Apple with features like 4GB RAM.
+Lenovo Tablet Model 385,27536.61,4.6,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product by Lenovo with features like 12GB RAM.
+Under Armour Clothing Model 181,36379.54,5.0,Clothing,Under Armour,"Size: XL, Cotton, Red",Clothing product by Under Armour with features like Size: XL.
+Lenovo Tablet Model 400,44191.14,4.0,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+OnePlus Mobile Model 647,38899.84,4.6,Mobile,OnePlus,"128GB, A15 Bionic",Mobile product by OnePlus with features like 128GB.
+Samsung Tablet Model 508,2673.78,4.2,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet product by Samsung with features like 6GB RAM.
+Adidas Clothing Model 560,37261.21,3.8,Clothing,Adidas,"Size: S, Wool, Blue",Clothing product by Adidas with features like Size: S.
+Ford Vehicles Model 151,22540.33,4.3,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles product by Ford with features like V6 Engine.
+Hasbro Toys Model 290,32515.3,4.2,Toys,Hasbro,"Plush Toy, 12 inch",Toys product by Hasbro with features like Plush Toy.
+Toyota Vehicles Model 176,37378.96,4.7,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product by Toyota with features like Electric.
+Nestle Food Model 112,9204.51,4.1,Food,Nestle,"100g, Milk Chocolate",Food product by Nestle with features like 100g.
+LG Electronics Model 988,14873.41,4.1,Electronics,LG,"1080p Full HD, Android TV",Electronics product by LG with features like 1080p Full HD.
+Adidas Clothing Model 610,8300.24,4.4,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+Apple Tablet Model 924,21470.02,4.4,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product by Apple with features like 12GB RAM.
+Lenovo Tablet Model 248,34482.45,4.0,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet product by Lenovo with features like 6GB RAM.
+Xiaomi Mobile Model 330,12382.85,4.0,Mobile,Xiaomi,"64GB, MediaTek",Mobile product by Xiaomi with features like 64GB.
+Adidas Clothing Model 657,45456.29,4.2,Clothing,Adidas,"Size: XL, Cotton, Red",Clothing product by Adidas with features like Size: XL.
+Adidas Clothing Model 547,17619.57,4.8,Clothing,Adidas,"Size: M, Cotton, White",Clothing product by Adidas with features like Size: M.
+Apple Tablet Model 767,28791.27,3.7,Tablet,Apple,"6GB RAM, 64GB, MediaTek",Tablet product by Apple with features like 6GB RAM.
+Hot Wheels Toys Model 569,39318.15,4.9,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product by Hot Wheels with features like Plush Toy.
+Hasbro Toys Model 784,47384.09,4.7,Toys,Hasbro,"Plush Toy, 12 inch",Toys product by Hasbro with features like Plush Toy.
+Tesla Vehicles Model 557,39721.85,4.9,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product by Tesla with features like 2.0L Hybrid.
+Apple Mobile Model 406,49933.68,3.6,Mobile,Apple,"128GB, A15 Bionic",Mobile product by Apple with features like 128GB.
+Samsung Electronics Model 508,19279.04,3.6,Electronics,Samsung,"1080p Full HD, Android TV",Electronics product by Samsung with features like 1080p Full HD.
+Xiaomi Mobile Model 552,27468.48,3.7,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile product by Xiaomi with features like 128GB.
+Adidas Clothing Model 906,28432.79,3.6,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+Nike Clothing Model 328,37202.56,3.8,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+LG Electronics Model 694,9241.68,3.6,Electronics,LG,"1080p Full HD, Android TV",Electronics product by LG with features like 1080p Full HD.
+Nestle Food Model 492,45614.14,4.2,Food,Nestle,"1.5L, Carbonated",Food product by Nestle with features like 1.5L.
+Coca-Cola Food Model 575,27388.36,3.6,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Microsoft Tablet Model 362,20004.39,4.4,Tablet,Microsoft,"12GB RAM, 128GB, Snapdragon",Tablet product by Microsoft with features like 12GB RAM.
+Nabisco Food Model 742,5781.96,4.8,Food,Nabisco,"100g, Milk Chocolate",Food product by Nabisco with features like 100g.
+Honda Vehicles Model 496,20513.26,3.8,Vehicles,Honda,"V6 Engine, 4x4 Drive",Vehicles product by Honda with features like V6 Engine.
+Apple Mobile Model 982,35169.21,4.2,Mobile,Apple,"64GB, MediaTek",Mobile product by Apple with features like 64GB.
+Coca-Cola Food Model 601,28530.82,4.6,Food,Coca-Cola,"Family Pack, Chocolate",Food product by Coca-Cola with features like Family Pack.
+Nestle Food Model 476,26246.79,4.7,Food,Nestle,"Family Pack, Chocolate",Food product by Nestle with features like Family Pack.
+OnePlus Mobile Model 376,41249.31,4.3,Mobile,OnePlus,"64GB, MediaTek",Mobile product by OnePlus with features like 64GB.
+Honda Vehicles Model 855,46891.4,4.9,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles product by Honda with features like Electric.
+Apple Mobile Model 308,29994.31,4.5,Mobile,Apple,"128GB, A15 Bionic",Mobile product by Apple with features like 128GB.
+Ford Vehicles Model 428,15805.03,3.8,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Nabisco Food Model 540,17850.76,4.4,Food,Nabisco,"Family Pack, Chocolate",Food product by Nabisco with features like Family Pack.
+Lenovo Tablet Model 879,15056.12,4.6,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Lenovo with features like 8GB RAM.
+Apple Tablet Model 994,24412.02,3.9,Tablet,Apple,"6GB RAM, 64GB, MediaTek",Tablet product by Apple with features like 6GB RAM.
+Hot Wheels Toys Model 488,11093.83,3.8,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys product by Hot Wheels with features like Board Game.
+Nabisco Food Model 394,34098.23,5.0,Food,Nabisco,"1.5L, Carbonated",Food product by Nabisco with features like 1.5L.
+OnePlus Mobile Model 485,19906.03,4.6,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile product by OnePlus with features like 256GB.
+LG Electronics Model 804,40249.06,4.6,Electronics,LG,"Noise Cancelling, Wireless",Electronics product by LG with features like Noise Cancelling.
+Toyota Vehicles Model 899,43625.12,4.2,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product by Toyota with features like Electric.
+Mattel Toys Model 323,36003.24,3.9,Toys,Mattel,"500 pieces, Multi-color",Toys product by Mattel with features like 500 pieces.
+Hasbro Toys Model 654,10148.77,4.0,Toys,Hasbro,"Plush Toy, 12 inch",Toys product by Hasbro with features like Plush Toy.
+Nestle Food Model 700,23999.45,3.8,Food,Nestle,"1.5L, Carbonated",Food product by Nestle with features like 1.5L.
+Honda Vehicles Model 787,37227.28,4.7,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles product by Honda with features like Electric.
+Under Armour Clothing Model 334,7412.36,4.8,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Samsung Mobile Model 331,30552.59,4.6,Mobile,Samsung,"128GB, A15 Bionic",Mobile product by Samsung with features like 128GB.
+Tesla Vehicles Model 140,40008.53,4.6,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles product by Tesla with features like 1.5L Turbo.
+Tesla Vehicles Model 509,23181.94,4.9,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product by Tesla with features like 2.0L Hybrid.
+OnePlus Mobile Model 691,38108.13,3.9,Mobile,OnePlus,"64GB, MediaTek",Mobile product by OnePlus with features like 64GB.
+Lenovo Tablet Model 807,44924.57,4.1,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product by Lenovo with features like 12GB RAM.
+Pepsi Food Model 298,15446.25,4.8,Food,Pepsi,"500ml, Diet",Food product by Pepsi with features like 500ml.
+Apple Tablet Model 143,13995.97,4.2,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product by Apple with features like 12GB RAM.
+Hasbro Toys Model 264,2347.73,4.4,Toys,Hasbro,"Board Game, 2-6 Players",Toys product by Hasbro with features like Board Game.
+Puma Clothing Model 396,16300.22,3.9,Clothing,Puma,"Size: M, Cotton, White",Clothing product by Puma with features like Size: M.
+LG Electronics Model 572,11575.67,4.0,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics product by LG with features like Bluetooth Speaker.
+LG Electronics Model 476,18327.61,5.0,Electronics,LG,"1080p Full HD, Android TV",Electronics product by LG with features like 1080p Full HD.
+Apple Tablet Model 743,5252.06,4.5,Tablet,Apple,"6GB RAM, 64GB, MediaTek",Tablet product by Apple with features like 6GB RAM.
+Nike Clothing Model 710,25212.07,3.6,Clothing,Nike,"Size: L, Polyester, Black",Clothing product by Nike with features like Size: L.
+Lenovo Tablet Model 446,32350.83,4.2,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Microsoft Tablet Model 128,5635.18,3.7,Tablet,Microsoft,"12GB RAM, 128GB, Snapdragon",Tablet product by Microsoft with features like 12GB RAM.
+Microsoft Tablet Model 393,21508.46,4.3,Tablet,Microsoft,"6GB RAM, 64GB, MediaTek",Tablet product by Microsoft with features like 6GB RAM.
+Pepsi Food Model 360,28435.14,4.3,Food,Pepsi,"Family Pack, Chocolate",Food product by Pepsi with features like Family Pack.
+Coca-Cola Food Model 594,3408.4,4.4,Food,Coca-Cola,"1.5L, Carbonated",Food product by Coca-Cola with features like 1.5L.
+Lenovo Tablet Model 672,29141.22,4.7,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product by Lenovo with features like 12GB RAM.
+Nike Clothing Model 850,43534.22,3.9,Clothing,Nike,"Size: M, Cotton, White",Clothing product by Nike with features like Size: M.
+Adidas Clothing Model 389,10977.37,4.8,Clothing,Adidas,"Size: M, Cotton, White",Clothing product by Adidas with features like Size: M.
+LG Electronics Model 261,9084.73,4.6,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics product by LG with features like 4K UHD.
+Nike Clothing Model 830,33065.51,4.7,Clothing,Nike,"Size: L, Polyester, Black",Clothing product by Nike with features like Size: L.
+Xiaomi Mobile Model 781,27190.0,4.7,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product by Xiaomi with features like 256GB.
+Mattel Toys Model 437,3415.24,4.3,Toys,Mattel,"Die-cast, Model 2023",Toys product by Mattel with features like Die-cast.
+Bose Electronics Model 681,46398.36,3.9,Electronics,Bose,"4K UHD, HDR10, WebOS",Electronics product by Bose with features like 4K UHD.
+LG Electronics Model 944,25729.98,4.8,Electronics,LG,"1080p Full HD, Android TV",Electronics product by LG with features like 1080p Full HD.
+Pepsi Food Model 503,24446.77,3.6,Food,Pepsi,"500ml, Diet",Food product by Pepsi with features like 500ml.
+Nabisco Food Model 902,42899.45,3.9,Food,Nabisco,"1.5L, Carbonated",Food product by Nabisco with features like 1.5L.
+LG Electronics Model 997,33454.79,4.4,Electronics,LG,"Noise Cancelling, Wireless",Electronics product by LG with features like Noise Cancelling.
+Apple Tablet Model 317,39315.82,3.8,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+Samsung Electronics Model 775,25078.25,4.5,Electronics,Samsung,"Noise Cancelling, Wireless",Electronics product by Samsung with features like Noise Cancelling.
+Samsung Tablet Model 713,13402.81,4.4,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product by Samsung with features like 12GB RAM.
+Apple Mobile Model 302,26217.39,3.7,Mobile,Apple,"64GB, MediaTek",Mobile product by Apple with features like 64GB.
+Hot Wheels Toys Model 976,40707.48,4.8,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product by Hot Wheels with features like Plush Toy.
+Ford Vehicles Model 247,10150.18,3.8,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles product by Ford with features like V6 Engine.
+Coca-Cola Food Model 211,45204.52,3.9,Food,Coca-Cola,"100g, Milk Chocolate",Food product by Coca-Cola with features like 100g.
+Hot Wheels Toys Model 160,26801.07,4.4,Toys,Hot Wheels,"Die-cast, Model 2023",Toys product by Hot Wheels with features like Die-cast.
+Under Armour Clothing Model 388,38528.2,3.7,Clothing,Under Armour,"Size: S, Wool, Blue",Clothing product by Under Armour with features like Size: S.
+Puma Clothing Model 558,41447.33,3.7,Clothing,Puma,"Size: L, Polyester, Black",Clothing product by Puma with features like Size: L.
+Apple Mobile Model 582,8113.31,4.5,Mobile,Apple,"256GB, Snapdragon 8 Gen1",Mobile product by Apple with features like 256GB.
+Mattel Toys Model 659,40575.38,4.3,Toys,Mattel,"Die-cast, Model 2023",Toys product by Mattel with features like Die-cast.
+OnePlus Mobile Model 941,3992.98,3.9,Mobile,OnePlus,"128GB, A15 Bionic",Mobile product by OnePlus with features like 128GB.
+Tesla Vehicles Model 385,14097.78,3.9,Vehicles,Tesla,"Electric, 358mi range, Autopilot",Vehicles product by Tesla with features like Electric.
+Coca-Cola Food Model 209,20440.67,4.7,Food,Coca-Cola,"1.5L, Carbonated",Food product by Coca-Cola with features like 1.5L.
+Nabisco Food Model 994,15721.07,3.6,Food,Nabisco,"100g, Milk Chocolate",Food product by Nabisco with features like 100g.
+Mattel Toys Model 806,37517.96,4.7,Toys,Mattel,"Board Game, 2-6 Players",Toys product by Mattel with features like Board Game.
+Mattel Toys Model 444,17636.01,4.7,Toys,Mattel,"500 pieces, Multi-color",Toys product by Mattel with features like 500 pieces.
+Sony Electronics Model 106,17470.92,4.1,Electronics,Sony,"1080p Full HD, Android TV",Electronics product by Sony with features like 1080p Full HD.
+Samsung Tablet Model 491,25385.9,4.1,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet product by Samsung with features like 6GB RAM.
+Mattel Toys Model 402,24962.64,4.0,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Nike Clothing Model 887,24946.16,4.6,Clothing,Nike,"Size: L, Polyester, Black",Clothing product by Nike with features like Size: L.
+Microsoft Tablet Model 712,5577.83,4.2,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet product by Microsoft with features like 4GB RAM.
+Xiaomi Mobile Model 676,40029.26,3.5,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile product by Xiaomi with features like 128GB.
+Puma Clothing Model 948,28649.18,4.4,Clothing,Puma,"Size: XL, Cotton, Red",Clothing product by Puma with features like Size: XL.
+Toyota Vehicles Model 966,19000.58,4.6,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product by Toyota with features like V6 Engine.
+LG Electronics Model 483,36769.67,3.8,Electronics,LG,"1080p Full HD, Android TV",Electronics product by LG with features like 1080p Full HD.
+Ford Vehicles Model 974,38814.89,3.9,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Hasbro Toys Model 876,34591.26,4.6,Toys,Hasbro,"Plush Toy, 12 inch",Toys product by Hasbro with features like Plush Toy.
+Puma Clothing Model 676,7274.54,4.9,Clothing,Puma,"Size: XL, Cotton, Red",Clothing product by Puma with features like Size: XL.
+Samsung Tablet Model 880,32261.02,3.6,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet product by Samsung with features like 4GB RAM.
+Puma Clothing Model 460,8099.21,4.8,Clothing,Puma,"Size: XL, Cotton, Red",Clothing product by Puma with features like Size: XL.
+Toyota Vehicles Model 166,30435.28,4.6,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product by Toyota with features like V6 Engine.
+Xiaomi Mobile Model 795,46898.25,4.9,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile product by Xiaomi with features like 128GB.
+Ford Vehicles Model 473,21486.85,3.8,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles product by Ford with features like V6 Engine.
+Nike Clothing Model 466,36254.1,4.8,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Ford Vehicles Model 390,15338.88,4.2,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Adidas Clothing Model 660,18901.64,4.9,Clothing,Adidas,"Size: XL, Cotton, Red",Clothing product by Adidas with features like Size: XL.
+Pepsi Food Model 508,43874.93,4.7,Food,Pepsi,"Family Pack, Chocolate",Food product by Pepsi with features like Family Pack.
+Lego Toys Model 926,13943.04,4.1,Toys,Lego,"500 pieces, Multi-color",Toys product by Lego with features like 500 pieces.
+Under Armour Clothing Model 779,19458.84,3.8,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Under Armour Clothing Model 801,24756.08,4.3,Clothing,Under Armour,"Size: S, Wool, Blue",Clothing product by Under Armour with features like Size: S.
+Lenovo Tablet Model 144,10722.24,3.5,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Mattel Toys Model 643,42904.04,3.8,Toys,Mattel,"Plush Toy, 12 inch",Toys product by Mattel with features like Plush Toy.
+Hot Wheels Toys Model 812,16331.44,4.8,Toys,Hot Wheels,"Die-cast, Model 2023",Toys product by Hot Wheels with features like Die-cast.
+Apple Tablet Model 957,45276.59,3.9,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Apple with features like 8GB RAM.
+Nike Clothing Model 924,31457.55,4.8,Clothing,Nike,"Size: L, Polyester, Black",Clothing product by Nike with features like Size: L.
+Coca-Cola Food Model 533,14404.78,3.9,Food,Coca-Cola,"500ml, Diet",Food product by Coca-Cola with features like 500ml.
+Tesla Vehicles Model 257,46366.48,4.2,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product by Tesla with features like 2.0L Hybrid.
+Sony Electronics Model 630,40191.88,3.8,Electronics,Sony,"Noise Cancelling, Wireless",Electronics product by Sony with features like Noise Cancelling.
+Ford Vehicles Model 365,46896.71,4.7,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Under Armour Clothing Model 936,46546.54,4.6,Clothing,Under Armour,"Size: M, Cotton, White",Clothing product by Under Armour with features like Size: M.
+Hasbro Toys Model 623,22902.36,4.1,Toys,Hasbro,"Die-cast, Model 2023",Toys product by Hasbro with features like Die-cast.
+Samsung Tablet Model 854,45689.35,4.4,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Puma Clothing Model 700,41567.72,4.1,Clothing,Puma,"Size: XL, Cotton, Red",Clothing product by Puma with features like Size: XL.
+Apple Mobile Model 545,5795.31,4.7,Mobile,Apple,"512GB, A17 Pro",Mobile product by Apple with features like 512GB.
+Hasbro Toys Model 953,5920.76,4.9,Toys,Hasbro,"Board Game, 2-6 Players",Toys product by Hasbro with features like Board Game.
+Sony Electronics Model 621,26196.89,4.0,Electronics,Sony,"Noise Cancelling, Wireless",Electronics product by Sony with features like Noise Cancelling.
+Samsung Mobile Model 360,19672.03,4.5,Mobile,Samsung,"512GB, A17 Pro",Mobile product by Samsung with features like 512GB.
+Nabisco Food Model 784,36282.69,4.2,Food,Nabisco,"Family Pack, Chocolate",Food product by Nabisco with features like Family Pack.
+Samsung Tablet Model 277,48450.71,3.6,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product by Samsung with features like 8GB RAM.
+Nestle Food Model 909,20084.36,4.9,Food,Nestle,"100g, Milk Chocolate",Food product by Nestle with features like 100g.
+Toyota Vehicles Model 578,23201.14,3.6,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product by Toyota with features like Electric.
+Sony Electronics Model 477,41803.27,4.0,Electronics,Sony,"Noise Cancelling, Wireless",Electronics product by Sony with features like Noise Cancelling.
+Adidas Clothing Model 219,4411.31,3.6,Clothing,Adidas,"Size: M, Cotton, White",Clothing product by Adidas with features like Size: M.
+OnePlus Mobile Model 573,33979.8,4.5,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile product by OnePlus with features like 256GB.
+Adidas Clothing Model 281,48611.03,3.8,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product by Adidas with features like Size: L.
+OnePlus Mobile Model 502,26187.59,4.3,Mobile,OnePlus,"512GB, A17 Pro",Mobile product by OnePlus with features like 512GB.
+LG Electronics Model 273,42435.57,4.3,Electronics,LG,"Noise Cancelling, Wireless",Electronics product by LG with features like Noise Cancelling.
+Under Armour Clothing Model 378,3628.05,4.1,Clothing,Under Armour,"Size: M, Cotton, White",Clothing product by Under Armour with features like Size: M.
+Honda Vehicles Model 773,3531.94,3.8,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles product by Honda with features like Electric.
+Bose Electronics Model 843,11011.13,3.6,Electronics,Bose,"Noise Cancelling, Wireless",Electronics product by Bose with features like Noise Cancelling.
+Apple Tablet Model 165,31965.1,5.0,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product by Apple with features like 12GB RAM.
+Sony Electronics Model 957,17308.14,5.0,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics product by Sony with features like 4K UHD.
+Toyota Vehicles Model 905,29812.58,4.1,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product by Toyota with features like Electric.
+Xiaomi Mobile Model 107,8643.04,4.3,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product by Xiaomi with features like 256GB.
+Lenovo Tablet Model 884,32763.85,4.2,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product by Lenovo with features like 4GB RAM.
+Xiaomi Mobile Model 172,35994.07,4.3,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product by Xiaomi with features like 256GB.
+Nabisco Food Model 893,15751.75,4.3,Food,Nabisco,"500ml, Diet",Food product by Nabisco with features like 500ml.
+Mattel Toys Model 947,9094.52,3.8,Toys,Mattel,"Die-cast, Model 2023",Toys product by Mattel with features like Die-cast.
+OnePlus Mobile Model 862,13535.3,3.7,Mobile,OnePlus,"64GB, MediaTek",Mobile product by OnePlus with features like 64GB.
+Hasbro Toys Model 962,5018.28,4.6,Toys,Hasbro,"Plush Toy, 12 inch",Toys product by Hasbro with features like Plush Toy.
+Pepsi Food Model 836,6989.95,4.6,Food,Pepsi,"100g, Milk Chocolate",Food product by Pepsi with features like 100g.
+Nike Clothing Model 266,39333.28,4.1,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Ford Vehicles Model 181,16250.79,4.2,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles product by Ford with features like 1.5L Turbo.
+Toyota Vehicles Model 160,4709.44,4.6,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product by Toyota with features like V6 Engine.
+Honda Vehicles Model 340,39910.59,3.6,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product by Honda with features like 2.0L Hybrid.
+Under Armour Clothing Model 999,10025.47,4.3,Clothing,Under Armour,"Size: M, Cotton, White",Clothing product by Under Armour with features like Size: M.
+Nike Clothing Model 741,20462.51,4.6,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product by Nike with features like Size: XL.
+Lego Toys Model 321,17242.27,4.4,Toys,Lego,"500 pieces, Multi-color",Toys product by Lego with features like 500 pieces.
+Under Armour Clothing Model 586,41889.41,4.0,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing product by Under Armour with features like Size: L.
+Samsung Electronics Model 174,995.66,3.6,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics product by Samsung with features like Bluetooth Speaker.
+Ford Vehicles Model 973,2926.19,4.4,Vehicles,Ford,"Electric, 358mi range, Autopilot",Vehicles product by Ford with features like Electric.
+OnePlus Mobile Model 232,47119.39,4.3,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile product by OnePlus with features like 256GB.
+Toyota Vehicles Model 611,15369.57,3.5,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product by Toyota with features like V6 Engine.
+Apple Tablet Model 914,9296.65,4.1,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet product by Apple with features like 4GB RAM.
+Samsung Tablet Model 656,37911.11,4.8,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet product by Samsung with features like 4GB RAM.
+Tesla Vehicles Model 913,29423.38,4.3,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product by Tesla with features like 2.0L Hybrid.
+Honda Vehicles Model 987,12476.88,4.0,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product by Honda with features like 2.0L Hybrid.
+Nabisco Food Model 218,10171.55,3.6,Food,Nabisco,"1.5L, Carbonated",Food product by Nabisco with features like 1.5L.
+Apple Tablet Model 973,22868.45,4.5,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet product by Apple with features like 4GB RAM.
+Pepsi Food Model 143,25529.87,3.9,Food,Pepsi,"100g, Milk Chocolate",Food product by Pepsi with features like 100g.
+Bose Electronics Model 321,42442.23,3.6,Electronics,Bose,"4K UHD, HDR10, WebOS",Electronics product by Bose with features like 4K UHD.
+OnePlus Mobile Item 1162,648.25,3.3,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile product from OnePlus featuring 256GB.
+Samsung Tablet Item 1783,735.75,4.9,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Samsung featuring 8GB RAM.
+Adidas Clothing Item 1696,309.81,3.6,Clothing,Adidas,"Size: M, Cotton, White",Clothing product from Adidas featuring Size: M.
+Sony Electronics Item 1449,226.64,4.5,Electronics,Sony,"Noise Cancelling, Wireless",Electronics product from Sony featuring Noise Cancelling.
+LG Electronics Item 1282,933.77,3.7,Electronics,LG,"Noise Cancelling, Wireless",Electronics product from LG featuring Noise Cancelling.
+Apple Tablet Item 1625,121.53,4.5,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Apple featuring 8GB RAM.
+Lenovo Tablet Item 1375,836.5,3.6,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Lenovo featuring 8GB RAM.
+Lenovo Tablet Item 1090,503.82,4.8,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Lenovo featuring 8GB RAM.
+AmazonBasics E-Commerce Item 1099,913.18,4.5,E-Commerce,AmazonBasics,"Bulk discounts, Direct from China",E-Commerce product from AmazonBasics featuring Bulk discounts.
+OnePlus Mobile Item 1779,263.67,3.4,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile product from OnePlus featuring 256GB.
+Apple Tablet Item 1064,842.64,4.0,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Apple featuring 8GB RAM.
+Apple Tablet Item 1523,1073.6,3.0,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Apple featuring 8GB RAM.
+Bose Electronics Item 1170,1889.09,4.4,Electronics,Bose,"Noise Cancelling, Wireless",Electronics product from Bose featuring Noise Cancelling.
+Nike Clothing Item 1226,1616.16,4.4,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product from Nike featuring Size: XL.
+Pepsi Food Item 1787,775.66,3.2,Food,Pepsi,"1.5L, Carbonated",Food product from Pepsi featuring 1.5L.
+Pepsi Food Item 1754,1724.8,4.9,Food,Pepsi,"500ml, Diet",Food product from Pepsi featuring 500ml.
+Tesla Vehicles Item 1321,1386.3,3.7,Vehicles,Tesla,"V6 Engine, 4x4 Drive",Vehicles product from Tesla featuring V6 Engine.
+LG Electronics Item 1751,10.7,4.3,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics product from LG featuring 4K UHD.
+Mattel Toys Item 1504,1809.8,4.7,Toys,Mattel,"Plush Toy, 12 inch",Toys product from Mattel featuring Plush Toy.
+Nabisco Food Item 1286,1012.35,3.4,Food,Nabisco,"1.5L, Carbonated",Food product from Nabisco featuring 1.5L.
+Hot Wheels Toys Item 1595,1617.87,4.2,Toys,Hot Wheels,"500 pieces, Multi-color",Toys product from Hot Wheels featuring 500 pieces.
+Samsung Electronics Item 1023,39.68,4.8,Electronics,Samsung,"4K UHD, HDR10, WebOS",Electronics product from Samsung featuring 4K UHD.
+Toyota Vehicles Item 1298,1373.35,3.3,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles product from Toyota featuring 1.5L Turbo.
+Coca-Cola Food Item 1692,673.4,3.3,Food,Coca-Cola,"100g, Milk Chocolate",Food product from Coca-Cola featuring 100g.
+Puma Clothing Item 1495,92.55,3.3,Clothing,Puma,"Size: M, Cotton, White",Clothing product from Puma featuring Size: M.
+Nabisco Food Item 1960,1726.06,3.7,Food,Nabisco,"Family Pack, Chocolate",Food product from Nabisco featuring Family Pack.
+Lego Toys Item 1151,1723.71,4.7,Toys,Lego,"Board Game, 2-6 Players",Toys product from Lego featuring Board Game.
+Lenovo Tablet Item 1505,652.06,4.7,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet product from Lenovo featuring 6GB RAM.
+Toyota Vehicles Item 1369,1688.78,4.0,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product from Toyota featuring Electric.
+Toyota Vehicles Item 1874,995.59,3.3,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles product from Toyota featuring Electric.
+Pepsi Food Item 1883,1508.6,3.9,Food,Pepsi,"Family Pack, Chocolate",Food product from Pepsi featuring Family Pack.
+Nestle Food Item 1302,344.09,4.9,Food,Nestle,"100g, Milk Chocolate",Food product from Nestle featuring 100g.
+Lenovo Tablet Item 1813,1883.93,3.8,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product from Lenovo featuring 4GB RAM.
+Nestle Food Item 1826,765.75,3.4,Food,Nestle,"1.5L, Carbonated",Food product from Nestle featuring 1.5L.
+Samsung Mobile Item 1419,569.84,3.7,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product from Samsung featuring 256GB.
+eBay E-Commerce Item 1029,1812.09,4.4,E-Commerce,eBay,"Second-hand, Global shipping",E-Commerce product from eBay featuring Second-hand.
+Samsung Electronics Item 1292,1640.36,3.7,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics product from Samsung featuring Bluetooth Speaker.
+Pepsi Food Item 1491,1763.0,3.4,Food,Pepsi,"Family Pack, Chocolate",Food product from Pepsi featuring Family Pack.
+Bose Electronics Item 1681,482.46,4.7,Electronics,Bose,"Bluetooth Speaker, Waterproof",Electronics product from Bose featuring Bluetooth Speaker.
+Pepsi Food Item 1355,1325.39,4.8,Food,Pepsi,"1.5L, Carbonated",Food product from Pepsi featuring 1.5L.
+Pepsi Food Item 1689,1196.5,3.9,Food,Pepsi,"1.5L, Carbonated",Food product from Pepsi featuring 1.5L.
+Ford Vehicles Item 1768,972.65,4.6,Vehicles,Ford,"Electric, 358mi range, Autopilot",Vehicles product from Ford featuring Electric.
+Hot Wheels Toys Item 1794,184.96,3.6,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product from Hot Wheels featuring Plush Toy.
+Lego Toys Item 1608,885.96,4.6,Toys,Lego,"Plush Toy, 12 inch",Toys product from Lego featuring Plush Toy.
+Sony Electronics Item 1386,329.05,3.4,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics product from Sony featuring 4K UHD.
+Lenovo Tablet Item 1872,1882.57,3.9,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product from Lenovo featuring 12GB RAM.
+Xiaomi Mobile Item 1129,971.54,4.6,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product from Xiaomi featuring 256GB.
+Coca-Cola Food Item 1442,1300.53,3.2,Food,Coca-Cola,"Family Pack, Chocolate",Food product from Coca-Cola featuring Family Pack.
+Ford Vehicles Item 1936,360.39,4.3,Vehicles,Ford,"Electric, 358mi range, Autopilot",Vehicles product from Ford featuring Electric.
+Bose Electronics Item 1465,995.82,3.6,Electronics,Bose,"1080p Full HD, Android TV",Electronics product from Bose featuring 1080p Full HD.
+Samsung Mobile Item 1747,74.7,4.5,Mobile,Samsung,"128GB, A15 Bionic",Mobile product from Samsung featuring 128GB.
+Hasbro Toys Item 1318,1449.73,4.5,Toys,Hasbro,"500 pieces, Multi-color",Toys product from Hasbro featuring 500 pieces.
+Hot Wheels Toys Item 1278,1495.44,3.3,Toys,Hot Wheels,"Die-cast, Model 2023",Toys product from Hot Wheels featuring Die-cast.
+Nestle Food Item 1086,1878.53,4.0,Food,Nestle,"100g, Milk Chocolate",Food product from Nestle featuring 100g.
+Bose Electronics Item 1001,1246.23,3.3,Electronics,Bose,"Noise Cancelling, Wireless",Electronics product from Bose featuring Noise Cancelling.
+Hot Wheels Toys Item 1174,1226.24,3.3,Toys,Hot Wheels,"Die-cast, Model 2023",Toys product from Hot Wheels featuring Die-cast.
+Nestle Food Item 1237,1814.25,3.3,Food,Nestle,"100g, Milk Chocolate",Food product from Nestle featuring 100g.
+Samsung Mobile Item 1155,273.42,3.7,Mobile,Samsung,"512GB, A17 Pro",Mobile product from Samsung featuring 512GB.
+Apple Tablet Item 1702,1960.3,3.6,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product from Apple featuring 12GB RAM.
+Lenovo Tablet Item 1342,1829.27,4.8,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet product from Lenovo featuring 6GB RAM.
+Lenovo Tablet Item 1672,774.91,3.9,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Lenovo featuring 8GB RAM.
+Coca-Cola Food Item 1595,1604.7,4.0,Food,Coca-Cola,"Family Pack, Chocolate",Food product from Coca-Cola featuring Family Pack.
+Bose Electronics Item 1763,998.26,3.1,Electronics,Bose,"1080p Full HD, Android TV",Electronics product from Bose featuring 1080p Full HD.
+Adidas Clothing Item 1849,310.46,3.2,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product from Adidas featuring Size: L.
+Adidas Clothing Item 1966,667.1,3.8,Clothing,Adidas,"Size: S, Wool, Blue",Clothing product from Adidas featuring Size: S.
+OnePlus Mobile Item 1157,1215.63,4.9,Mobile,OnePlus,"128GB, A15 Bionic",Mobile product from OnePlus featuring 128GB.
+Nike Clothing Item 1051,1849.43,4.1,Clothing,Nike,"Size: M, Cotton, White",Clothing product from Nike featuring Size: M.
+Lenovo Tablet Item 1053,65.6,3.7,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product from Lenovo featuring 12GB RAM.
+Apple Tablet Item 1875,1112.53,4.0,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product from Apple featuring 12GB RAM.
+Hasbro Toys Item 1946,1019.91,3.6,Toys,Hasbro,"500 pieces, Multi-color",Toys product from Hasbro featuring 500 pieces.
+Etsy E-Commerce Item 1327,219.57,3.9,E-Commerce,Etsy,"Online only, Fast shipping",E-Commerce product from Etsy featuring Online only.
+Nike Clothing Item 1915,1590.48,3.1,Clothing,Nike,"Size: L, Polyester, Black",Clothing product from Nike featuring Size: L.
+Xiaomi Mobile Item 1518,1770.9,3.1,Mobile,Xiaomi,"512GB, A17 Pro",Mobile product from Xiaomi featuring 512GB.
+Etsy E-Commerce Item 1425,1423.07,3.5,E-Commerce,Etsy,"Online only, Fast shipping",E-Commerce product from Etsy featuring Online only.
+Samsung Mobile Item 1949,1013.5,4.0,Mobile,Samsung,"64GB, MediaTek",Mobile product from Samsung featuring 64GB.
+Etsy E-Commerce Item 1820,905.37,4.9,E-Commerce,Etsy,"Second-hand, Global shipping",E-Commerce product from Etsy featuring Second-hand.
+AliExpress E-Commerce Item 1274,52.38,4.0,E-Commerce,AliExpress,"Bulk discounts, Direct from China",E-Commerce product from AliExpress featuring Bulk discounts.
+Hot Wheels Toys Item 1681,190.01,4.0,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys product from Hot Wheels featuring Board Game.
+AliExpress E-Commerce Item 1981,449.13,4.5,E-Commerce,AliExpress,"Online only, Fast shipping",E-Commerce product from AliExpress featuring Online only.
+Adidas Clothing Item 1772,546.54,4.9,Clothing,Adidas,"Size: M, Cotton, White",Clothing product from Adidas featuring Size: M.
+Xiaomi Mobile Item 1007,590.03,4.9,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile product from Xiaomi featuring 128GB.
+Nike Clothing Item 1602,372.87,4.5,Clothing,Nike,"Size: M, Cotton, White",Clothing product from Nike featuring Size: M.
+Samsung Electronics Item 1200,1678.04,3.3,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics product from Samsung featuring Bluetooth Speaker.
+Xiaomi Mobile Item 1584,619.42,3.5,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product from Xiaomi featuring 256GB.
+Etsy E-Commerce Item 1554,1961.86,4.4,E-Commerce,Etsy,"Second-hand, Global shipping",E-Commerce product from Etsy featuring Second-hand.
+Mattel Toys Item 1405,999.26,3.2,Toys,Mattel,"Die-cast, Model 2023",Toys product from Mattel featuring Die-cast.
+Sony Electronics Item 1668,1626.32,3.7,Electronics,Sony,"Noise Cancelling, Wireless",Electronics product from Sony featuring Noise Cancelling.
+Sony Electronics Item 1239,8.87,3.3,Electronics,Sony,"1080p Full HD, Android TV",Electronics product from Sony featuring 1080p Full HD.
+Honda Vehicles Item 1355,1982.22,5.0,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles product from Honda featuring Electric.
+Etsy E-Commerce Item 1648,1904.44,3.0,E-Commerce,Etsy,"Bulk discounts, Direct from China",E-Commerce product from Etsy featuring Bulk discounts.
+Lego Toys Item 1455,335.0,3.5,Toys,Lego,"Die-cast, Model 2023",Toys product from Lego featuring Die-cast.
+Apple Tablet Item 1771,871.55,3.6,Tablet,Apple,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Apple featuring 8GB RAM.
+Sony Electronics Item 1102,1881.48,4.8,Electronics,Sony,"Bluetooth Speaker, Waterproof",Electronics product from Sony featuring Bluetooth Speaker.
+Samsung Mobile Item 1739,715.61,4.9,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product from Samsung featuring 256GB.
+Hasbro Toys Item 1260,921.18,4.5,Toys,Hasbro,"Die-cast, Model 2023",Toys product from Hasbro featuring Die-cast.
+Samsung Mobile Item 1811,998.17,4.5,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product from Samsung featuring 256GB.
+LG Electronics Item 1131,1961.66,4.8,Electronics,LG,"Noise Cancelling, Wireless",Electronics product from LG featuring Noise Cancelling.
+AmazonBasics E-Commerce Item 1309,1750.35,4.4,E-Commerce,AmazonBasics,"Second-hand, Global shipping",E-Commerce product from AmazonBasics featuring Second-hand.
+Lego Toys Item 1260,628.72,4.9,Toys,Lego,"Board Game, 2-6 Players",Toys product from Lego featuring Board Game.
+Samsung Tablet Item 1349,739.99,3.2,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product from Samsung featuring 12GB RAM.
+Honda Vehicles Item 1109,11.49,3.7,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product from Honda featuring 1.5L Turbo.
+AliExpress E-Commerce Item 1140,430.65,4.3,E-Commerce,AliExpress,"Second-hand, Global shipping",E-Commerce product from AliExpress featuring Second-hand.
+Samsung Tablet Item 1308,1817.64,3.8,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet product from Samsung featuring 12GB RAM.
+Samsung Mobile Item 1121,1011.7,3.7,Mobile,Samsung,"64GB, MediaTek",Mobile product from Samsung featuring 64GB.
+Honda Vehicles Item 1270,1053.94,4.1,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product from Honda featuring 1.5L Turbo.
+Lenovo Tablet Item 1380,454.07,4.4,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet product from Lenovo featuring 4GB RAM.
+Honda Vehicles Item 1770,820.87,3.9,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product from Honda featuring 2.0L Hybrid.
+AmazonBasics E-Commerce Item 1365,1870.08,4.1,E-Commerce,AmazonBasics,"Second-hand, Global shipping",E-Commerce product from AmazonBasics featuring Second-hand.
+Nike Clothing Item 1889,431.92,3.0,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product from Nike featuring Size: XL.
+Samsung Electronics Item 1120,829.03,4.1,Electronics,Samsung,"Noise Cancelling, Wireless",Electronics product from Samsung featuring Noise Cancelling.
+AliExpress E-Commerce Item 1862,1705.4,3.7,E-Commerce,AliExpress,"Second-hand, Global shipping",E-Commerce product from AliExpress featuring Second-hand.
+Samsung Electronics Item 1412,1513.31,3.9,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics product from Samsung featuring Bluetooth Speaker.
+Honda Vehicles Item 1953,1223.35,4.2,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles product from Honda featuring 1.5L Turbo.
+Toyota Vehicles Item 1928,426.58,3.4,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles product from Toyota featuring V6 Engine.
+Under Armour Clothing Item 1756,1899.9,3.0,Clothing,Under Armour,"Size: XL, Cotton, Red",Clothing product from Under Armour featuring Size: XL.
+Pepsi Food Item 1012,1587.2,4.8,Food,Pepsi,"Family Pack, Chocolate",Food product from Pepsi featuring Family Pack.
+AmazonBasics E-Commerce Item 1620,226.93,4.7,E-Commerce,AmazonBasics,"Handmade, Customizable",E-Commerce product from AmazonBasics featuring Handmade.
+OnePlus Mobile Item 1216,1786.86,3.8,Mobile,OnePlus,"128GB, A15 Bionic",Mobile product from OnePlus featuring 128GB.
+Coca-Cola Food Item 1855,566.78,4.9,Food,Coca-Cola,"1.5L, Carbonated",Food product from Coca-Cola featuring 1.5L.
+Ford Vehicles Item 1412,1149.04,3.7,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles product from Ford featuring 2.0L Hybrid.
+Lego Toys Item 1133,596.98,3.7,Toys,Lego,"500 pieces, Multi-color",Toys product from Lego featuring 500 pieces.
+Adidas Clothing Item 1810,520.07,4.5,Clothing,Adidas,"Size: S, Wool, Blue",Clothing product from Adidas featuring Size: S.
+Bose Electronics Item 1969,607.16,3.9,Electronics,Bose,"Noise Cancelling, Wireless",Electronics product from Bose featuring Noise Cancelling.
+Etsy E-Commerce Item 1271,1972.9,4.1,E-Commerce,Etsy,"Bulk discounts, Direct from China",E-Commerce product from Etsy featuring Bulk discounts.
+Xiaomi Mobile Item 1965,496.63,4.5,Mobile,Xiaomi,"512GB, A17 Pro",Mobile product from Xiaomi featuring 512GB.
+LG Electronics Item 1269,642.85,4.2,Electronics,LG,"Noise Cancelling, Wireless",Electronics product from LG featuring Noise Cancelling.
+Hot Wheels Toys Item 1309,1292.15,3.8,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys product from Hot Wheels featuring Plush Toy.
+Microsoft Tablet Item 1605,423.95,3.4,Tablet,Microsoft,"12GB RAM, 128GB, Snapdragon",Tablet product from Microsoft featuring 12GB RAM.
+Xiaomi Mobile Item 1401,947.4,4.9,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile product from Xiaomi featuring 128GB.
+Hasbro Toys Item 1342,1834.57,3.4,Toys,Hasbro,"Die-cast, Model 2023",Toys product from Hasbro featuring Die-cast.
+Mattel Toys Item 1298,994.44,3.3,Toys,Mattel,"Board Game, 2-6 Players",Toys product from Mattel featuring Board Game.
+Bose Electronics Item 1186,276.54,3.4,Electronics,Bose,"Noise Cancelling, Wireless",Electronics product from Bose featuring Noise Cancelling.
+Lenovo Tablet Item 1278,966.57,4.6,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet product from Lenovo featuring 8GB RAM.
+Pepsi Food Item 1412,1315.09,4.3,Food,Pepsi,"Family Pack, Chocolate",Food product from Pepsi featuring Family Pack.
+AliExpress E-Commerce Item 1085,192.81,4.0,E-Commerce,AliExpress,"Handmade, Customizable",E-Commerce product from AliExpress featuring Handmade.
+Pepsi Food Item 1817,974.06,4.7,Food,Pepsi,"500ml, Diet",Food product from Pepsi featuring 500ml.
+Apple Tablet Item 1014,339.01,3.2,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product from Apple featuring 12GB RAM.
+Ford Vehicles Item 1780,452.94,3.1,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles product from Ford featuring 2.0L Hybrid.
+Etsy E-Commerce Item 1114,1680.03,3.9,E-Commerce,Etsy,"Online only, Fast shipping",E-Commerce product from Etsy featuring Online only.
+Adidas Clothing Item 1980,1847.41,3.7,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product from Adidas featuring Size: L.
+Lenovo Tablet Item 1183,224.92,4.2,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet product from Lenovo featuring 12GB RAM.
+Microsoft Tablet Item 1219,1513.15,4.8,Tablet,Microsoft,"6GB RAM, 64GB, MediaTek",Tablet product from Microsoft featuring 6GB RAM.
+Etsy E-Commerce Item 1194,1745.82,3.4,E-Commerce,Etsy,"Handmade, Customizable",E-Commerce product from Etsy featuring Handmade.
+Toyota Vehicles Item 1886,684.53,4.7,Vehicles,Toyota,"2.0L Hybrid, 5 seats",Vehicles product from Toyota featuring 2.0L Hybrid.
+Pepsi Food Item 1376,8.34,3.8,Food,Pepsi,"100g, Milk Chocolate",Food product from Pepsi featuring 100g.
+Coca-Cola Food Item 1990,628.71,3.5,Food,Coca-Cola,"500ml, Diet",Food product from Coca-Cola featuring 500ml.
+Microsoft Tablet Item 1862,1974.15,3.2,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet product from Microsoft featuring 4GB RAM.
+Coca-Cola Food Item 1549,1564.86,4.3,Food,Coca-Cola,"Family Pack, Chocolate",Food product from Coca-Cola featuring Family Pack.
+Mattel Toys Item 1825,1268.7,3.2,Toys,Mattel,"Die-cast, Model 2023",Toys product from Mattel featuring Die-cast.
+Apple Mobile Item 1774,1516.78,4.0,Mobile,Apple,"128GB, A15 Bionic",Mobile product from Apple featuring 128GB.
+Honda Vehicles Item 1996,703.96,3.5,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles product from Honda featuring 2.0L Hybrid.
+Nestle Food Item 1048,405.6,4.9,Food,Nestle,"500ml, Diet",Food product from Nestle featuring 500ml.
+Adidas Clothing Item 1948,1111.72,3.4,Clothing,Adidas,"Size: XL, Cotton, Red",Clothing product from Adidas featuring Size: XL.
+Adidas Clothing Item 1521,1479.61,3.2,Clothing,Adidas,"Size: L, Polyester, Black",Clothing product from Adidas featuring Size: L.
+Pepsi Food Item 1216,1342.79,4.2,Food,Pepsi,"500ml, Diet",Food product from Pepsi featuring 500ml.
+Samsung Mobile Item 1652,2.89,3.4,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product from Samsung featuring 256GB.
+Mattel Toys Item 1887,484.99,4.6,Toys,Mattel,"Board Game, 2-6 Players",Toys product from Mattel featuring Board Game.
+Puma Clothing Item 1687,171.08,4.8,Clothing,Puma,"Size: M, Cotton, White",Clothing product from Puma featuring Size: M.
+Adidas Clothing Item 1524,715.78,3.8,Clothing,Adidas,"Size: S, Wool, Blue",Clothing product from Adidas featuring Size: S.
+Toyota Vehicles Item 1693,234.73,4.9,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles product from Toyota featuring 1.5L Turbo.
+Pepsi Food Item 1368,276.31,4.9,Food,Pepsi,"100g, Milk Chocolate",Food product from Pepsi featuring 100g.
+Hasbro Toys Item 1406,295.43,4.7,Toys,Hasbro,"500 pieces, Multi-color",Toys product from Hasbro featuring 500 pieces.
+Lego Toys Item 1501,779.2,4.6,Toys,Lego,"Plush Toy, 12 inch",Toys product from Lego featuring Plush Toy.
+Xiaomi Mobile Item 1003,286.21,5.0,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile product from Xiaomi featuring 256GB.
+Nestle Food Item 1048,144.27,3.7,Food,Nestle,"500ml, Diet",Food product from Nestle featuring 500ml.
+Ford Vehicles Item 1783,993.23,4.6,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles product from Ford featuring 2.0L Hybrid.
+eBay E-Commerce Item 1304,1159.49,3.2,E-Commerce,eBay,"Handmade, Customizable",E-Commerce product from eBay featuring Handmade.
+Samsung Electronics Item 1766,550.23,4.6,Electronics,Samsung,"1080p Full HD, Android TV",Electronics product from Samsung featuring 1080p Full HD.
+Xiaomi Mobile Item 1847,649.27,4.9,Mobile,Xiaomi,"64GB, MediaTek",Mobile product from Xiaomi featuring 64GB.
+Puma Clothing Item 1503,395.39,3.3,Clothing,Puma,"Size: M, Cotton, White",Clothing product from Puma featuring Size: M.
+Tesla Vehicles Item 1221,244.63,3.1,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles product from Tesla featuring 2.0L Hybrid.
+Apple Tablet Item 1803,574.41,3.9,Tablet,Apple,"6GB RAM, 64GB, MediaTek",Tablet product from Apple featuring 6GB RAM.
+Tesla Vehicles Item 1936,865.75,3.8,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles product from Tesla featuring 1.5L Turbo.
+LG Electronics Item 1226,1213.37,3.3,Electronics,LG,"Noise Cancelling, Wireless",Electronics product from LG featuring Noise Cancelling.
+Puma Clothing Item 1734,1933.93,3.6,Clothing,Puma,"Size: S, Wool, Blue",Clothing product from Puma featuring Size: S.
+Mattel Toys Item 1570,1472.94,3.2,Toys,Mattel,"Die-cast, Model 2023",Toys product from Mattel featuring Die-cast.
+Samsung Tablet Item 1963,1343.74,4.1,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet product from Samsung featuring 6GB RAM.
+Ford Vehicles Item 1301,454.47,4.9,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles product from Ford featuring 2.0L Hybrid.
+Coca-Cola Food Item 1336,1209.28,3.5,Food,Coca-Cola,"100g, Milk Chocolate",Food product from Coca-Cola featuring 100g.
+eBay E-Commerce Item 1240,661.68,3.3,E-Commerce,eBay,"Handmade, Customizable",E-Commerce product from eBay featuring Handmade.
+LG Electronics Item 1008,1782.79,4.8,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics product from LG featuring 4K UHD.
+eBay E-Commerce Item 1587,1703.04,3.9,E-Commerce,eBay,"Second-hand, Global shipping",E-Commerce product from eBay featuring Second-hand.
+Samsung Mobile Item 1120,616.33,3.9,Mobile,Samsung,"512GB, A17 Pro",Mobile product from Samsung featuring 512GB.
+OnePlus Mobile Item 1283,1654.77,4.4,Mobile,OnePlus,"128GB, A15 Bionic",Mobile product from OnePlus featuring 128GB.
+LG Electronics Item 1859,990.68,4.7,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics product from LG featuring Bluetooth Speaker.
+LG Electronics Item 1735,638.99,3.5,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics product from LG featuring Bluetooth Speaker.
+Nestle Food Item 1635,1676.47,4.7,Food,Nestle,"500ml, Diet",Food product from Nestle featuring 500ml.
+Nestle Food Item 1441,92.26,3.8,Food,Nestle,"1.5L, Carbonated",Food product from Nestle featuring 1.5L.
+Samsung Mobile Item 1570,943.47,4.0,Mobile,Samsung,"512GB, A17 Pro",Mobile product from Samsung featuring 512GB.
+Coca-Cola Food Item 1860,598.63,3.9,Food,Coca-Cola,"1.5L, Carbonated",Food product from Coca-Cola featuring 1.5L.
+Samsung Mobile Item 1042,956.73,3.4,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile product from Samsung featuring 256GB.
+Nike Clothing Item 1254,1276.83,4.1,Clothing,Nike,"Size: L, Polyester, Black",Clothing product from Nike featuring Size: L.
+Under Armour Clothing Item 1840,1405.15,4.9,Clothing,Under Armour,"Size: XL, Cotton, Red",Clothing product from Under Armour featuring Size: XL.
+Nike Clothing Item 1662,914.2,4.4,Clothing,Nike,"Size: XL, Cotton, Red",Clothing product from Nike featuring Size: XL.
+Under Armour Clothing Item 1350,1869.8,4.6,Clothing,Under Armour,"Size: S, Wool, Blue",Clothing product from Under Armour featuring Size: S.
+Apple Tablet Item 1010,112.47,4.9,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet product from Apple featuring 12GB RAM.
+Etsy E-Commerce Item 1296,445.06,3.1,E-Commerce,Etsy,"Second-hand, Global shipping",E-Commerce product from Etsy featuring Second-hand.
+Apple Tablet Item 1227,346.0,4.2,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet product from Apple featuring 4GB RAM.
+Mattel Toys Item 1596,1441.25,3.6,Toys,Mattel,"Plush Toy, 12 inch",Toys product from Mattel featuring Plush Toy.
+Nabisco Food Item 1468,1751.59,4.3,Food,Nabisco,"500ml, Diet",Food product from Nabisco featuring 500ml.
+LG Electronics Model 2870,2355.54,4.3,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics from LG equipped with Bluetooth Speaker.
+Samsung Tablet Model 2473,3370.72,4.8,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet from Samsung equipped with 6GB RAM.
+Microsoft Tablet Model 2969,4471.59,3.0,Tablet,Microsoft,"12GB RAM, 128GB, Snapdragon",Tablet from Microsoft equipped with 12GB RAM.
+Lenovo Tablet Model 2859,1905.91,3.6,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet from Lenovo equipped with 8GB RAM.
+Under Armour Clothing Model 2679,2130.31,4.7,Clothing,Under Armour,"Size: S, Wool, Blue",Clothing from Under Armour equipped with Size: S.
+Toyota Vehicles Model 2003,797.36,4.7,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles from Toyota equipped with 1.5L Turbo.
+Hot Wheels Toys Model 2750,926.77,4.5,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys from Hot Wheels equipped with Board Game.
+Ford Vehicles Model 2097,4615.73,3.4,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles from Ford equipped with V6 Engine.
+Adidas Clothing Model 2675,1632.1,4.5,Clothing,Adidas,"Size: XL, Cotton, Red",Clothing from Adidas equipped with Size: XL.
+Lego Toys Model 2380,4637.52,4.7,Toys,Lego,"Plush Toy, 12 inch",Toys from Lego equipped with Plush Toy.
+Lenovo Tablet Model 2588,2844.57,4.6,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet from Lenovo equipped with 6GB RAM.
+Dell PC Model 2336,4594.15,4.1,PC,Dell,"Intel i5, 8GB RAM, 1TB HDD",PC from Dell equipped with Intel i5.
+Microsoft Tablet Model 2348,1691.48,4.2,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet from Microsoft equipped with 4GB RAM.
+Ford Vehicles Model 2184,1818.07,3.6,Vehicles,Ford,"Electric, 358mi range, Autopilot",Vehicles from Ford equipped with Electric.
+AliExpress E-Commerce Model 2613,4138.96,3.9,E-Commerce,AliExpress,"Online only, Fast shipping",E-Commerce from AliExpress equipped with Online only.
+Under Armour Clothing Model 2977,1688.18,3.1,Clothing,Under Armour,"Size: S, Wool, Blue",Clothing from Under Armour equipped with Size: S.
+Apple Mobile Model 2030,4654.69,3.8,Mobile,Apple,"256GB, Snapdragon 8 Gen1",Mobile from Apple equipped with 256GB.
+Samsung Mobile Model 2203,1534.38,4.5,Mobile,Samsung,"512GB, A17 Pro",Mobile from Samsung equipped with 512GB.
+Samsung Tablet Model 2625,762.91,3.8,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet from Samsung equipped with 4GB RAM.
+Under Armour Clothing Model 2397,4972.42,5.0,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing from Under Armour equipped with Size: L.
+OnePlus Mobile Model 2007,1693.49,5.0,Mobile,OnePlus,"64GB, MediaTek",Mobile from OnePlus equipped with 64GB.
+Dell PC Model 2275,3153.26,4.5,PC,Dell,"Intel i5, 8GB RAM, 1TB HDD",PC from Dell equipped with Intel i5.
+Samsung Mobile Model 2525,4602.83,4.7,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile from Samsung equipped with 256GB.
+Samsung Mobile Model 2410,1286.74,3.7,Mobile,Samsung,"64GB, MediaTek",Mobile from Samsung equipped with 64GB.
+OnePlus Mobile Model 2921,2147.56,3.1,Mobile,OnePlus,"512GB, A17 Pro",Mobile from OnePlus equipped with 512GB.
+Apple Tablet Model 2788,2471.71,3.9,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet from Apple equipped with 12GB RAM.
+Ford Vehicles Model 2507,183.2,3.3,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles from Ford equipped with 2.0L Hybrid.
+OnePlus Mobile Model 2585,1795.07,3.1,Mobile,OnePlus,"64GB, MediaTek",Mobile from OnePlus equipped with 64GB.
+Etsy E-Commerce Model 2475,1594.54,4.1,E-Commerce,Etsy,"Second-hand, Global shipping",E-Commerce from Etsy equipped with Second-hand.
+Samsung Mobile Model 2046,2483.13,4.9,Mobile,Samsung,"128GB, A15 Bionic",Mobile from Samsung equipped with 128GB.
+Xiaomi Mobile Model 2946,2861.02,4.2,Mobile,Xiaomi,"512GB, A17 Pro",Mobile from Xiaomi equipped with 512GB.
+Etsy E-Commerce Model 2148,3593.78,3.5,E-Commerce,Etsy,"Bulk discounts, Direct from China",E-Commerce from Etsy equipped with Bulk discounts.
+Coca-Cola Food Model 2722,3977.7,4.3,Food,Coca-Cola,"Family Pack, Chocolate",Food from Coca-Cola equipped with Family Pack.
+Samsung Tablet Model 2236,3964.15,3.7,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet from Samsung equipped with 6GB RAM.
+Toyota Vehicles Model 2881,4382.53,4.6,Vehicles,Toyota,"2.0L Hybrid, 5 seats",Vehicles from Toyota equipped with 2.0L Hybrid.
+Ford Vehicles Model 2002,867.33,3.7,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles from Ford equipped with V6 Engine.
+Dell PC Model 2738,1336.71,3.4,PC,Dell,"Ryzen 5, 8GB RAM, 256GB SSD",PC from Dell equipped with Ryzen 5.
+Samsung Tablet Model 2750,4879.51,3.0,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet from Samsung equipped with 4GB RAM.
+Xiaomi Mobile Model 2039,4329.13,4.1,Mobile,Xiaomi,"128GB, A15 Bionic",Mobile from Xiaomi equipped with 128GB.
+Apple Mobile Model 2026,1891.82,4.3,Mobile,Apple,"512GB, A17 Pro",Mobile from Apple equipped with 512GB.
+Sony Electronics Model 2141,3407.46,3.2,Electronics,Sony,"Bluetooth Speaker, Waterproof",Electronics from Sony equipped with Bluetooth Speaker.
+Ford Vehicles Model 2484,3791.91,3.5,Vehicles,Ford,"Electric, 358mi range, Autopilot",Vehicles from Ford equipped with Electric.
+Acer PC Model 2831,3278.65,4.7,PC,Acer,"Ryzen 7, 16GB RAM, 512GB SSD",PC from Acer equipped with Ryzen 7.
+Apple Mobile Model 2705,4333.2,5.0,Mobile,Apple,"512GB, A17 Pro",Mobile from Apple equipped with 512GB.
+Hot Wheels Toys Model 2933,2134.01,3.7,Toys,Hot Wheels,"Die-cast, Model 2023",Toys from Hot Wheels equipped with Die-cast.
+Nestle Food Model 2161,2518.59,4.6,Food,Nestle,"500ml, Diet",Food from Nestle equipped with 500ml.
+HP PC Model 2397,1843.53,4.3,PC,HP,"Intel i7, 16GB RAM, 512GB SSD",PC from HP equipped with Intel i7.
+Samsung Mobile Model 2256,1743.54,3.2,Mobile,Samsung,"64GB, MediaTek",Mobile from Samsung equipped with 64GB.
+Ford Vehicles Model 2458,553.54,4.6,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles from Ford equipped with 2.0L Hybrid.
+Hasbro Toys Model 2766,2134.48,3.0,Toys,Hasbro,"Plush Toy, 12 inch",Toys from Hasbro equipped with Plush Toy.
+Microsoft Tablet Model 2728,334.86,4.5,Tablet,Microsoft,"8GB RAM, 256GB SSD, Intel i5",Tablet from Microsoft equipped with 8GB RAM.
+Ford Vehicles Model 2348,878.09,3.5,Vehicles,Ford,"2.0L Hybrid, 5 seats",Vehicles from Ford equipped with 2.0L Hybrid.
+Honda Vehicles Model 2716,1794.33,4.8,Vehicles,Honda,"2.0L Hybrid, 5 seats",Vehicles from Honda equipped with 2.0L Hybrid.
+Asus PC Model 2683,1131.24,3.5,PC,Asus,"Ryzen 7, 16GB RAM, 512GB SSD",PC from Asus equipped with Ryzen 7.
+LG Electronics Model 2833,1394.63,5.0,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics from LG equipped with 4K UHD.
+Samsung Tablet Model 2084,166.35,4.5,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet from Samsung equipped with 12GB RAM.
+Apple Tablet Model 2168,704.54,4.8,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet from Apple equipped with 4GB RAM.
+Apple Mobile Model 2358,4274.88,4.4,Mobile,Apple,"256GB, Snapdragon 8 Gen1",Mobile from Apple equipped with 256GB.
+Lego Toys Model 2012,2828.44,3.5,Toys,Lego,"Die-cast, Model 2023",Toys from Lego equipped with Die-cast.
+Nestle Food Model 2697,2706.95,3.8,Food,Nestle,"500ml, Diet",Food from Nestle equipped with 500ml.
+Nabisco Food Model 2927,505.06,4.4,Food,Nabisco,"Family Pack, Chocolate",Food from Nabisco equipped with Family Pack.
+eBay E-Commerce Model 2087,2775.52,3.3,E-Commerce,eBay,"Online only, Fast shipping",E-Commerce from eBay equipped with Online only.
+Samsung Tablet Model 2938,2826.5,3.1,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet from Samsung equipped with 4GB RAM.
+Coca-Cola Food Model 2791,2236.73,4.3,Food,Coca-Cola,"100g, Milk Chocolate",Food from Coca-Cola equipped with 100g.
+Samsung Tablet Model 2524,1431.17,3.8,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet from Samsung equipped with 6GB RAM.
+Sony Electronics Model 2624,4315.42,3.2,Electronics,Sony,"Bluetooth Speaker, Waterproof",Electronics from Sony equipped with Bluetooth Speaker.
+Sony Electronics Model 2485,4739.49,4.7,Electronics,Sony,"4K UHD, HDR10, WebOS",Electronics from Sony equipped with 4K UHD.
+MSI PC Model 2958,1172.01,3.6,PC,MSI,"Intel i9, 32GB RAM, 1TB SSD",PC from MSI equipped with Intel i9.
+Ford Vehicles Model 2147,2112.78,4.9,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles from Ford equipped with V6 Engine.
+Nabisco Food Model 2535,2915.16,3.1,Food,Nabisco,"100g, Milk Chocolate",Food from Nabisco equipped with 100g.
+Asus PC Model 2714,2202.74,4.3,PC,Asus,"Intel i7, 16GB RAM, 512GB SSD",PC from Asus equipped with Intel i7.
+Microsoft Tablet Model 2350,1538.04,3.2,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet from Microsoft equipped with 4GB RAM.
+Lenovo Tablet Model 2940,1941.49,3.7,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet from Lenovo equipped with 4GB RAM.
+Hasbro Toys Model 2554,2731.77,4.1,Toys,Hasbro,"Die-cast, Model 2023",Toys from Hasbro equipped with Die-cast.
+Toyota Vehicles Model 2957,1242.67,4.7,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles from Toyota equipped with V6 Engine.
+Coca-Cola Food Model 2424,2534.74,4.4,Food,Coca-Cola,"100g, Milk Chocolate",Food from Coca-Cola equipped with 100g.
+Apple Mobile Model 2950,1281.9,4.9,Mobile,Apple,"512GB, A17 Pro",Mobile from Apple equipped with 512GB.
+eBay E-Commerce Model 2036,2212.91,5.0,E-Commerce,eBay,"Online only, Fast shipping",E-Commerce from eBay equipped with Online only.
+Samsung Electronics Model 2944,1746.57,3.2,Electronics,Samsung,"1080p Full HD, Android TV",Electronics from Samsung equipped with 1080p Full HD.
+Puma Clothing Model 2430,2387.1,4.9,Clothing,Puma,"Size: M, Cotton, White",Clothing from Puma equipped with Size: M.
+Nike Clothing Model 2854,4394.0,3.6,Clothing,Nike,"Size: M, Cotton, White",Clothing from Nike equipped with Size: M.
+Nike Clothing Model 2031,433.35,3.6,Clothing,Nike,"Size: XL, Cotton, Red",Clothing from Nike equipped with Size: XL.
+Samsung Mobile Model 2988,1127.66,4.1,Mobile,Samsung,"512GB, A17 Pro",Mobile from Samsung equipped with 512GB.
+Samsung Mobile Model 2543,4720.79,4.6,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile from Samsung equipped with 256GB.
+Acer PC Model 2510,1918.73,3.2,PC,Acer,"Intel i7, 16GB RAM, 512GB SSD",PC from Acer equipped with Intel i7.
+Mattel Toys Model 2476,1970.78,3.3,Toys,Mattel,"500 pieces, Multi-color",Toys from Mattel equipped with 500 pieces.
+Nike Clothing Model 2935,2450.51,4.2,Clothing,Nike,"Size: XL, Cotton, Red",Clothing from Nike equipped with Size: XL.
+Apple Tablet Model 2405,1470.95,4.0,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet from Apple equipped with 12GB RAM.
+Dell PC Model 2961,3213.86,4.7,PC,Dell,"Intel i7, 16GB RAM, 512GB SSD",PC from Dell equipped with Intel i7.
+Toyota Vehicles Model 2906,1475.47,4.6,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles from Toyota equipped with 1.5L Turbo.
+Samsung Electronics Model 2052,317.07,4.1,Electronics,Samsung,"1080p Full HD, Android TV",Electronics from Samsung equipped with 1080p Full HD.
+AliExpress E-Commerce Model 2262,3209.07,4.0,E-Commerce,AliExpress,"Online only, Fast shipping",E-Commerce from AliExpress equipped with Online only.
+Toyota Vehicles Model 2790,3842.96,3.8,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles from Toyota equipped with V6 Engine.
+AmazonBasics E-Commerce Model 2759,1538.39,4.4,E-Commerce,AmazonBasics,"Handmade, Customizable",E-Commerce from AmazonBasics equipped with Handmade.
+Tesla Vehicles Model 2040,1906.68,4.4,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles from Tesla equipped with 1.5L Turbo.
+Xiaomi Mobile Model 2384,3237.6,3.7,Mobile,Xiaomi,"256GB, Snapdragon 8 Gen1",Mobile from Xiaomi equipped with 256GB.
+Honda Vehicles Model 2846,412.62,4.8,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles from Honda equipped with Electric.
+Dell PC Model 2373,4684.33,3.4,PC,Dell,"Intel i9, 32GB RAM, 1TB SSD",PC from Dell equipped with Intel i9.
+Xiaomi Mobile Model 2459,2801.63,3.5,Mobile,Xiaomi,"512GB, A17 Pro",Mobile from Xiaomi equipped with 512GB.
+LG Electronics Model 2795,3425.04,3.9,Electronics,LG,"Bluetooth Speaker, Waterproof",Electronics from LG equipped with Bluetooth Speaker.
+Puma Clothing Model 2539,815.73,3.6,Clothing,Puma,"Size: S, Wool, Blue",Clothing from Puma equipped with Size: S.
+Hot Wheels Toys Model 2668,1174.09,4.1,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys from Hot Wheels equipped with Board Game.
+Coca-Cola Food Model 2888,4767.42,4.8,Food,Coca-Cola,"500ml, Diet",Food from Coca-Cola equipped with 500ml.
+Pepsi Food Model 2771,4301.93,4.7,Food,Pepsi,"500ml, Diet",Food from Pepsi equipped with 500ml.
+Coca-Cola Food Model 2670,4399.0,4.7,Food,Coca-Cola,"Family Pack, Chocolate",Food from Coca-Cola equipped with Family Pack.
+Hasbro Toys Model 2662,3881.91,4.4,Toys,Hasbro,"Die-cast, Model 2023",Toys from Hasbro equipped with Die-cast.
+Toyota Vehicles Model 2955,441.85,4.3,Vehicles,Toyota,"Electric, 358mi range, Autopilot",Vehicles from Toyota equipped with Electric.
+Puma Clothing Model 2037,1825.17,3.2,Clothing,Puma,"Size: S, Wool, Blue",Clothing from Puma equipped with Size: S.
+Hot Wheels Toys Model 2396,1860.41,4.1,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys from Hot Wheels equipped with Plush Toy.
+AliExpress E-Commerce Model 2313,3172.68,3.6,E-Commerce,AliExpress,"Bulk discounts, Direct from China",E-Commerce from AliExpress equipped with Bulk discounts.
+eBay E-Commerce Model 2945,1230.65,3.5,E-Commerce,eBay,"Bulk discounts, Direct from China",E-Commerce from eBay equipped with Bulk discounts.
+Acer PC Model 2227,1794.27,3.8,PC,Acer,"Intel i5, 8GB RAM, 1TB HDD",PC from Acer equipped with Intel i5.
+Asus PC Model 2349,3462.94,4.4,PC,Asus,"Intel i9, 32GB RAM, 1TB SSD",PC from Asus equipped with Intel i9.
+AmazonBasics E-Commerce Model 2367,4622.14,3.9,E-Commerce,AmazonBasics,"Handmade, Customizable",E-Commerce from AmazonBasics equipped with Handmade.
+Samsung Mobile Model 2277,396.33,4.5,Mobile,Samsung,"64GB, MediaTek",Mobile from Samsung equipped with 64GB.
+Adidas Clothing Model 2661,1215.6,4.3,Clothing,Adidas,"Size: XL, Cotton, Red",Clothing from Adidas equipped with Size: XL.
+Sony Electronics Model 2280,1369.2,4.2,Electronics,Sony,"Noise Cancelling, Wireless",Electronics from Sony equipped with Noise Cancelling.
+Adidas Clothing Model 2596,1104.72,3.6,Clothing,Adidas,"Size: XL, Cotton, Red",Clothing from Adidas equipped with Size: XL.
+Samsung Mobile Model 2332,2509.9,4.4,Mobile,Samsung,"512GB, A17 Pro",Mobile from Samsung equipped with 512GB.
+Hasbro Toys Model 2694,3875.25,3.6,Toys,Hasbro,"500 pieces, Multi-color",Toys from Hasbro equipped with 500 pieces.
+Apple Tablet Model 2927,4711.56,4.9,Tablet,Apple,"4GB RAM, 32GB, A12 Bionic",Tablet from Apple equipped with 4GB RAM.
+Lego Toys Model 2045,3458.91,4.0,Toys,Lego,"Plush Toy, 12 inch",Toys from Lego equipped with Plush Toy.
+Nabisco Food Model 2781,4588.0,3.3,Food,Nabisco,"500ml, Diet",Food from Nabisco equipped with 500ml.
+Lego Toys Model 2106,4733.32,4.1,Toys,Lego,"Die-cast, Model 2023",Toys from Lego equipped with Die-cast.
+Hot Wheels Toys Model 2230,4785.87,4.1,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys from Hot Wheels equipped with Plush Toy.
+Honda Vehicles Model 2931,2502.18,3.5,Vehicles,Honda,"1.5L Turbo, CVT",Vehicles from Honda equipped with 1.5L Turbo.
+Apple Tablet Model 2768,4736.11,4.4,Tablet,Apple,"6GB RAM, 64GB, MediaTek",Tablet from Apple equipped with 6GB RAM.
+Samsung Electronics Model 2679,2840.58,3.0,Electronics,Samsung,"Bluetooth Speaker, Waterproof",Electronics from Samsung equipped with Bluetooth Speaker.
+HP PC Model 2909,2393.71,3.4,PC,HP,"Ryzen 5, 8GB RAM, 256GB SSD",PC from HP equipped with Ryzen 5.
+AmazonBasics E-Commerce Model 2411,2360.05,5.0,E-Commerce,AmazonBasics,"Online only, Fast shipping",E-Commerce from AmazonBasics equipped with Online only.
+Nabisco Food Model 2493,2802.12,3.1,Food,Nabisco,"100g, Milk Chocolate",Food from Nabisco equipped with 100g.
+Xiaomi Mobile Model 2727,837.81,3.6,Mobile,Xiaomi,"64GB, MediaTek",Mobile from Xiaomi equipped with 64GB.
+LG Electronics Model 2989,2863.3,4.5,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics from LG equipped with 4K UHD.
+Toyota Vehicles Model 2372,4543.29,3.4,Vehicles,Toyota,"V6 Engine, 4x4 Drive",Vehicles from Toyota equipped with V6 Engine.
+AliExpress E-Commerce Model 2904,3556.95,3.2,E-Commerce,AliExpress,"Bulk discounts, Direct from China",E-Commerce from AliExpress equipped with Bulk discounts.
+Lenovo Tablet Model 2480,3512.72,3.7,Tablet,Lenovo,"4GB RAM, 32GB, A12 Bionic",Tablet from Lenovo equipped with 4GB RAM.
+Nabisco Food Model 2622,2944.0,3.0,Food,Nabisco,"1.5L, Carbonated",Food from Nabisco equipped with 1.5L.
+Mattel Toys Model 2417,2851.08,4.3,Toys,Mattel,"Plush Toy, 12 inch",Toys from Mattel equipped with Plush Toy.
+Lego Toys Model 2010,3161.59,4.5,Toys,Lego,"Board Game, 2-6 Players",Toys from Lego equipped with Board Game.
+Bose Electronics Model 2603,1156.93,3.9,Electronics,Bose,"1080p Full HD, Android TV",Electronics from Bose equipped with 1080p Full HD.
+Sony Electronics Model 2841,4348.94,3.2,Electronics,Sony,"1080p Full HD, Android TV",Electronics from Sony equipped with 1080p Full HD.
+Toyota Vehicles Model 2530,288.56,3.4,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles from Toyota equipped with 1.5L Turbo.
+Mattel Toys Model 2984,1737.98,4.8,Toys,Mattel,"Board Game, 2-6 Players",Toys from Mattel equipped with Board Game.
+Nabisco Food Model 2058,1664.94,3.1,Food,Nabisco,"Family Pack, Chocolate",Food from Nabisco equipped with Family Pack.
+Mattel Toys Model 2869,2963.0,4.3,Toys,Mattel,"500 pieces, Multi-color",Toys from Mattel equipped with 500 pieces.
+Hot Wheels Toys Model 2658,2556.15,5.0,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys from Hot Wheels equipped with Board Game.
+Hasbro Toys Model 2443,1073.6,4.3,Toys,Hasbro,"Die-cast, Model 2023",Toys from Hasbro equipped with Die-cast.
+Coca-Cola Food Model 2984,4099.58,4.3,Food,Coca-Cola,"Family Pack, Chocolate",Food from Coca-Cola equipped with Family Pack.
+Under Armour Clothing Model 2634,3756.4,4.8,Clothing,Under Armour,"Size: XL, Cotton, Red",Clothing from Under Armour equipped with Size: XL.
+Hot Wheels Toys Model 2933,1517.48,4.9,Toys,Hot Wheels,"Die-cast, Model 2023",Toys from Hot Wheels equipped with Die-cast.
+MSI PC Model 2666,1166.68,3.2,PC,MSI,"Ryzen 5, 8GB RAM, 256GB SSD",PC from MSI equipped with Ryzen 5.
+Samsung Tablet Model 2017,1081.0,4.3,Tablet,Samsung,"12GB RAM, 128GB, Snapdragon",Tablet from Samsung equipped with 12GB RAM.
+HP PC Model 2308,4723.17,4.3,PC,HP,"Ryzen 5, 8GB RAM, 256GB SSD",PC from HP equipped with Ryzen 5.
+Tesla Vehicles Model 2660,2534.01,3.1,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles from Tesla equipped with 2.0L Hybrid.
+Etsy E-Commerce Model 2716,2035.15,3.4,E-Commerce,Etsy,"Handmade, Customizable",E-Commerce from Etsy equipped with Handmade.
+Hot Wheels Toys Model 2540,4552.78,4.7,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys from Hot Wheels equipped with Board Game.
+Coca-Cola Food Model 2227,4449.61,4.8,Food,Coca-Cola,"100g, Milk Chocolate",Food from Coca-Cola equipped with 100g.
+Lenovo Tablet Model 2481,2335.99,4.5,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet from Lenovo equipped with 6GB RAM.
+Acer PC Model 2875,2036.13,3.4,PC,Acer,"Ryzen 5, 8GB RAM, 256GB SSD",PC from Acer equipped with Ryzen 5.
+Mattel Toys Model 2777,2127.64,3.2,Toys,Mattel,"Plush Toy, 12 inch",Toys from Mattel equipped with Plush Toy.
+Tesla Vehicles Model 2510,3079.17,4.7,Vehicles,Tesla,"2.0L Hybrid, 5 seats",Vehicles from Tesla equipped with 2.0L Hybrid.
+Nabisco Food Model 2142,743.94,4.1,Food,Nabisco,"Family Pack, Chocolate",Food from Nabisco equipped with Family Pack.
+Microsoft Tablet Model 2409,3727.2,4.3,Tablet,Microsoft,"12GB RAM, 128GB, Snapdragon",Tablet from Microsoft equipped with 12GB RAM.
+Puma Clothing Model 2646,3768.07,3.5,Clothing,Puma,"Size: S, Wool, Blue",Clothing from Puma equipped with Size: S.
+LG Electronics Model 2832,4988.21,3.4,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics from LG equipped with 4K UHD.
+Nestle Food Model 2180,1279.78,4.1,Food,Nestle,"500ml, Diet",Food from Nestle equipped with 500ml.
+Tesla Vehicles Model 2314,4029.38,4.6,Vehicles,Tesla,"Electric, 358mi range, Autopilot",Vehicles from Tesla equipped with Electric.
+Sony Electronics Model 2397,1555.84,4.5,Electronics,Sony,"Noise Cancelling, Wireless",Electronics from Sony equipped with Noise Cancelling.
+Toyota Vehicles Model 2238,3828.05,3.9,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles from Toyota equipped with 1.5L Turbo.
+Samsung Mobile Model 2772,948.43,4.7,Mobile,Samsung,"64GB, MediaTek",Mobile from Samsung equipped with 64GB.
+Nabisco Food Model 2122,2235.97,3.6,Food,Nabisco,"Family Pack, Chocolate",Food from Nabisco equipped with Family Pack.
+MSI PC Model 2908,824.63,4.7,PC,MSI,"Intel i7, 16GB RAM, 512GB SSD",PC from MSI equipped with Intel i7.
+Mattel Toys Model 2271,2237.52,3.5,Toys,Mattel,"Die-cast, Model 2023",Toys from Mattel equipped with Die-cast.
+Apple Mobile Model 2402,2842.87,4.2,Mobile,Apple,"128GB, A15 Bionic",Mobile from Apple equipped with 128GB.
+Honda Vehicles Model 2656,1257.78,3.7,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles from Honda equipped with Electric.
+Apple Mobile Model 2030,3757.61,3.6,Mobile,Apple,"256GB, Snapdragon 8 Gen1",Mobile from Apple equipped with 256GB.
+Lenovo Tablet Model 2292,1933.25,3.3,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet from Lenovo equipped with 6GB RAM.
+Coca-Cola Food Model 2177,2047.43,4.7,Food,Coca-Cola,"Family Pack, Chocolate",Food from Coca-Cola equipped with Family Pack.
+Samsung Tablet Model 2562,2842.73,4.3,Tablet,Samsung,"8GB RAM, 256GB SSD, Intel i5",Tablet from Samsung equipped with 8GB RAM.
+Puma Clothing Model 2306,1288.34,4.7,Clothing,Puma,"Size: S, Wool, Blue",Clothing from Puma equipped with Size: S.
+Microsoft Tablet Model 2660,1336.28,4.5,Tablet,Microsoft,"6GB RAM, 64GB, MediaTek",Tablet from Microsoft equipped with 6GB RAM.
+Xiaomi Mobile Model 2467,4692.84,3.9,Mobile,Xiaomi,"64GB, MediaTek",Mobile from Xiaomi equipped with 64GB.
+Samsung Tablet Model 2693,4950.87,3.3,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet from Samsung equipped with 6GB RAM.
+Nike Clothing Model 2416,4951.56,4.5,Clothing,Nike,"Size: XL, Cotton, Red",Clothing from Nike equipped with Size: XL.
+Tesla Vehicles Model 2564,2065.25,3.8,Vehicles,Tesla,"V6 Engine, 4x4 Drive",Vehicles from Tesla equipped with V6 Engine.
+eBay E-Commerce Model 2162,1038.68,5.0,E-Commerce,eBay,"Bulk discounts, Direct from China",E-Commerce from eBay equipped with Bulk discounts.
+OnePlus Mobile Model 2850,653.22,3.2,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile from OnePlus equipped with 256GB.
+Samsung Mobile Model 2115,949.75,3.6,Mobile,Samsung,"128GB, A15 Bionic",Mobile from Samsung equipped with 128GB.
+Coca-Cola Food Model 2217,2081.26,4.6,Food,Coca-Cola,"Family Pack, Chocolate",Food from Coca-Cola equipped with Family Pack.
+Asus PC Model 2381,3174.18,3.0,PC,Asus,"Intel i5, 8GB RAM, 1TB HDD",PC from Asus equipped with Intel i5.
+Bose Electronics Model 2544,3629.32,3.0,Electronics,Bose,"4K UHD, HDR10, WebOS",Electronics from Bose equipped with 4K UHD.
+HP PC Model 2096,601.64,3.0,PC,HP,"Intel i9, 32GB RAM, 1TB SSD",PC from HP equipped with Intel i9.
+AliExpress E-Commerce Model 2970,3634.24,4.1,E-Commerce,AliExpress,"Online only, Fast shipping",E-Commerce from AliExpress equipped with Online only.
+LG Electronics Model 2979,1327.16,4.7,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics from LG equipped with 4K UHD.
+Toyota Vehicles Model 2635,1643.79,3.9,Vehicles,Toyota,"1.5L Turbo, CVT",Vehicles from Toyota equipped with 1.5L Turbo.
+Hasbro Toys Model 2832,4514.11,4.5,Toys,Hasbro,"500 pieces, Multi-color",Toys from Hasbro equipped with 500 pieces.
+Nestle Food Model 2618,626.4,4.6,Food,Nestle,"500ml, Diet",Food from Nestle equipped with 500ml.
+LG Electronics Model 2574,4202.76,3.3,Electronics,LG,"Noise Cancelling, Wireless",Electronics from LG equipped with Noise Cancelling.
+Lenovo Tablet Model 2572,4433.38,3.8,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet from Lenovo equipped with 12GB RAM.
+Lego Toys Model 2032,3528.0,3.0,Toys,Lego,"500 pieces, Multi-color",Toys from Lego equipped with 500 pieces.
+Nestle Food Model 2367,804.93,4.0,Food,Nestle,"500ml, Diet",Food from Nestle equipped with 500ml.
+Asus PC Model 2697,4307.45,3.8,PC,Asus,"Ryzen 7, 16GB RAM, 512GB SSD",PC from Asus equipped with Ryzen 7.
+Honda Vehicles Model 2457,2991.05,3.4,Vehicles,Honda,"Electric, 358mi range, Autopilot",Vehicles from Honda equipped with Electric.
+HP PC Model 2167,2268.23,4.5,PC,HP,"Ryzen 5, 8GB RAM, 256GB SSD",PC from HP equipped with Ryzen 5.
+Samsung Mobile Model 2948,303.19,4.2,Mobile,Samsung,"512GB, A17 Pro",Mobile from Samsung equipped with 512GB.
+Mattel Toys Model 2556,528.7,3.9,Toys,Mattel,"500 pieces, Multi-color",Toys from Mattel equipped with 500 pieces.
+Lego Toys Model 2583,1914.31,4.0,Toys,Lego,"Die-cast, Model 2023",Toys from Lego equipped with Die-cast.
+Tesla Vehicles Model 2419,1235.78,3.6,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles from Tesla equipped with 1.5L Turbo.
+Samsung Electronics Model 2652,3056.13,3.3,Electronics,Samsung,"4K UHD, HDR10, WebOS",Electronics from Samsung equipped with 4K UHD.
+AliExpress E-Commerce Model 2650,1466.27,3.2,E-Commerce,AliExpress,"Handmade, Customizable",E-Commerce from AliExpress equipped with Handmade.
+Microsoft Tablet Model 2222,2989.93,3.8,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet from Microsoft equipped with 4GB RAM.
+Hot Wheels Toys Model 2525,2446.34,4.4,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys from Hot Wheels equipped with Plush Toy.
+Acer PC Model 2692,2829.25,3.4,PC,Acer,"Intel i9, 32GB RAM, 1TB SSD",PC from Acer equipped with Intel i9.
+Adidas Clothing Model 2200,384.24,3.6,Clothing,Adidas,"Size: L, Polyester, Black",Clothing from Adidas equipped with Size: L.
+HP PC Model 2404,1388.82,4.2,PC,HP,"Intel i7, 16GB RAM, 512GB SSD",PC from HP equipped with Intel i7.
+Lenovo Tablet Model 2083,3876.76,4.0,Tablet,Lenovo,"6GB RAM, 64GB, MediaTek",Tablet from Lenovo equipped with 6GB RAM.
+LG Electronics Model 2713,4702.82,4.9,Electronics,LG,"1080p Full HD, Android TV",Electronics from LG equipped with 1080p Full HD.
+Puma Clothing Model 2628,2513.22,3.2,Clothing,Puma,"Size: S, Wool, Blue",Clothing from Puma equipped with Size: S.
+Sony Electronics Model 2449,1920.78,3.4,Electronics,Sony,"1080p Full HD, Android TV",Electronics from Sony equipped with 1080p Full HD.
+AmazonBasics E-Commerce Model 2007,2713.77,3.8,E-Commerce,AmazonBasics,"Bulk discounts, Direct from China",E-Commerce from AmazonBasics equipped with Bulk discounts.
+Lego Toys Model 2268,4895.1,4.7,Toys,Lego,"Die-cast, Model 2023",Toys from Lego equipped with Die-cast.
+MSI PC Model 2063,3683.3,4.5,PC,MSI,"Intel i7, 16GB RAM, 512GB SSD",PC from MSI equipped with Intel i7.
+Etsy E-Commerce Model 2225,1121.24,3.4,E-Commerce,Etsy,"Handmade, Customizable",E-Commerce from Etsy equipped with Handmade.
+Tesla Vehicles Model 2658,3530.68,3.0,Vehicles,Tesla,"Electric, 358mi range, Autopilot",Vehicles from Tesla equipped with Electric.
+Lenovo Tablet Model 2144,393.76,3.3,Tablet,Lenovo,"12GB RAM, 128GB, Snapdragon",Tablet from Lenovo equipped with 12GB RAM.
+HP PC Model 2515,3727.38,3.9,PC,HP,"Ryzen 5, 8GB RAM, 256GB SSD",PC from HP equipped with Ryzen 5.
+Nestle Food Model 2858,3071.93,4.2,Food,Nestle,"100g, Milk Chocolate",Food from Nestle equipped with 100g.
+Dell PC Model 2893,2664.73,4.4,PC,Dell,"Ryzen 7, 16GB RAM, 512GB SSD",PC from Dell equipped with Ryzen 7.
+Samsung Tablet Model 2326,3858.07,3.8,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet from Samsung equipped with 6GB RAM.
+Toyota Vehicles Model 2349,756.76,3.9,Vehicles,Toyota,"2.0L Hybrid, 5 seats",Vehicles from Toyota equipped with 2.0L Hybrid.
+Microsoft Tablet Model 2658,1553.28,4.4,Tablet,Microsoft,"6GB RAM, 64GB, MediaTek",Tablet from Microsoft equipped with 6GB RAM.
+Ford Vehicles Model 2079,2615.12,4.2,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles from Ford equipped with V6 Engine.
+Hasbro Toys Model 2268,3049.7,3.2,Toys,Hasbro,"Plush Toy, 12 inch",Toys from Hasbro equipped with Plush Toy.
+eBay E-Commerce Model 2829,1772.15,4.2,E-Commerce,eBay,"Online only, Fast shipping",E-Commerce from eBay equipped with Online only.
+OnePlus Mobile Model 2608,1229.29,3.8,Mobile,OnePlus,"256GB, Snapdragon 8 Gen1",Mobile from OnePlus equipped with 256GB.
+Adidas Clothing Model 2927,2806.76,4.2,Clothing,Adidas,"Size: L, Polyester, Black",Clothing from Adidas equipped with Size: L.
+Samsung Mobile Model 2932,1804.04,4.5,Mobile,Samsung,"256GB, Snapdragon 8 Gen1",Mobile from Samsung equipped with 256GB.
+HP PC Model 2967,4220.46,3.0,PC,HP,"Intel i9, 32GB RAM, 1TB SSD",PC from HP equipped with Intel i9.
+Microsoft Tablet Model 2188,1309.58,3.9,Tablet,Microsoft,"8GB RAM, 256GB SSD, Intel i5",Tablet from Microsoft equipped with 8GB RAM.
+Ford Vehicles Model 2029,1385.26,4.8,Vehicles,Ford,"Electric, 358mi range, Autopilot",Vehicles from Ford equipped with Electric.
+Pepsi Food Model 2213,2911.86,3.5,Food,Pepsi,"Family Pack, Chocolate",Food from Pepsi equipped with Family Pack.
+Asus PC Model 2354,4369.11,4.1,PC,Asus,"Ryzen 7, 16GB RAM, 512GB SSD",PC from Asus equipped with Ryzen 7.
+Microsoft Tablet Model 2160,3870.5,3.1,Tablet,Microsoft,"8GB RAM, 256GB SSD, Intel i5",Tablet from Microsoft equipped with 8GB RAM.
+Hot Wheels Toys Model 2180,3899.18,3.7,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys from Hot Wheels equipped with Board Game.
+Hot Wheels Toys Model 2747,3631.24,4.7,Toys,Hot Wheels,"Plush Toy, 12 inch",Toys from Hot Wheels equipped with Plush Toy.
+Puma Clothing Model 2647,2048.53,3.2,Clothing,Puma,"Size: XL, Cotton, Red",Clothing from Puma equipped with Size: XL.
+Dell PC Model 2021,1855.14,3.8,PC,Dell,"Intel i7, 16GB RAM, 512GB SSD",PC from Dell equipped with Intel i7.
+Coca-Cola Food Model 2095,1292.45,4.8,Food,Coca-Cola,"100g, Milk Chocolate",Food from Coca-Cola equipped with 100g.
+Acer PC Model 2114,3532.03,4.4,PC,Acer,"Ryzen 5, 8GB RAM, 256GB SSD",PC from Acer equipped with Ryzen 5.
+Bose Electronics Model 2990,3741.44,3.1,Electronics,Bose,"Noise Cancelling, Wireless",Electronics from Bose equipped with Noise Cancelling.
+Lego Toys Model 2008,3121.16,3.1,Toys,Lego,"Plush Toy, 12 inch",Toys from Lego equipped with Plush Toy.
+Nabisco Food Model 2150,3092.31,3.0,Food,Nabisco,"100g, Milk Chocolate",Food from Nabisco equipped with 100g.
+Coca-Cola Food Model 2600,1186.0,3.7,Food,Coca-Cola,"100g, Milk Chocolate",Food from Coca-Cola equipped with 100g.
+Lenovo Tablet Model 2746,559.35,4.9,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet from Lenovo equipped with 8GB RAM.
+Etsy E-Commerce Model 2017,2896.72,3.7,E-Commerce,Etsy,"Handmade, Customizable",E-Commerce from Etsy equipped with Handmade.
+Samsung Tablet Model 2568,735.51,4.7,Tablet,Samsung,"4GB RAM, 32GB, A12 Bionic",Tablet from Samsung equipped with 4GB RAM.
+eBay E-Commerce Model 2613,3019.01,4.8,E-Commerce,eBay,"Bulk discounts, Direct from China",E-Commerce from eBay equipped with Bulk discounts.
+LG Electronics Model 2900,4787.12,3.4,Electronics,LG,"4K UHD, HDR10, WebOS",Electronics from LG equipped with 4K UHD.
+Microsoft Tablet Model 2361,4930.56,4.6,Tablet,Microsoft,"6GB RAM, 64GB, MediaTek",Tablet from Microsoft equipped with 6GB RAM.
+Apple Mobile Model 2793,3188.84,3.4,Mobile,Apple,"64GB, MediaTek",Mobile from Apple equipped with 64GB.
+Hasbro Toys Model 2249,196.24,3.7,Toys,Hasbro,"Board Game, 2-6 Players",Toys from Hasbro equipped with Board Game.
+Acer PC Model 2916,3304.03,3.5,PC,Acer,"Intel i7, 16GB RAM, 512GB SSD",PC from Acer equipped with Intel i7.
+Acer PC Model 2524,1552.66,3.2,PC,Acer,"Intel i5, 8GB RAM, 1TB HDD",PC from Acer equipped with Intel i5.
+Pepsi Food Model 2258,1179.72,3.2,Food,Pepsi,"Family Pack, Chocolate",Food from Pepsi equipped with Family Pack.
+Samsung Electronics Model 2390,4008.43,5.0,Electronics,Samsung,"1080p Full HD, Android TV",Electronics from Samsung equipped with 1080p Full HD.
+Hot Wheels Toys Model 2999,2083.18,3.5,Toys,Hot Wheels,"Board Game, 2-6 Players",Toys from Hot Wheels equipped with Board Game.
+Apple Mobile Model 2653,4613.2,3.1,Mobile,Apple,"256GB, Snapdragon 8 Gen1",Mobile from Apple equipped with 256GB.
+AliExpress E-Commerce Model 2885,1867.12,3.6,E-Commerce,AliExpress,"Handmade, Customizable",E-Commerce from AliExpress equipped with Handmade.
+Acer PC Model 2112,899.88,3.9,PC,Acer,"Ryzen 7, 16GB RAM, 512GB SSD",PC from Acer equipped with Ryzen 7.
+Etsy E-Commerce Model 2133,4417.5,4.1,E-Commerce,Etsy,"Handmade, Customizable",E-Commerce from Etsy equipped with Handmade.
+Microsoft Tablet Model 2075,1283.03,3.7,Tablet,Microsoft,"8GB RAM, 256GB SSD, Intel i5",Tablet from Microsoft equipped with 8GB RAM.
+Apple Tablet Model 2039,4765.98,3.5,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet from Apple equipped with 12GB RAM.
+Bose Electronics Model 2612,3449.01,3.4,Electronics,Bose,"4K UHD, HDR10, WebOS",Electronics from Bose equipped with 4K UHD.
+MSI PC Model 2935,3931.14,4.8,PC,MSI,"Ryzen 7, 16GB RAM, 512GB SSD",PC from MSI equipped with Ryzen 7.
+Lenovo Tablet Model 2606,1624.51,3.9,Tablet,Lenovo,"8GB RAM, 256GB SSD, Intel i5",Tablet from Lenovo equipped with 8GB RAM.
+Samsung Mobile Model 2102,2104.8,3.3,Mobile,Samsung,"128GB, A15 Bionic",Mobile from Samsung equipped with 128GB.
+Apple Tablet Model 2962,569.93,3.6,Tablet,Apple,"12GB RAM, 128GB, Snapdragon",Tablet from Apple equipped with 12GB RAM.
+Ford Vehicles Model 2477,1733.97,3.7,Vehicles,Ford,"1.5L Turbo, CVT",Vehicles from Ford equipped with 1.5L Turbo.
+Nabisco Food Model 2347,4864.96,4.2,Food,Nabisco,"1.5L, Carbonated",Food from Nabisco equipped with 1.5L.
+Bose Electronics Model 2665,3082.63,4.1,Electronics,Bose,"Bluetooth Speaker, Waterproof",Electronics from Bose equipped with Bluetooth Speaker.
+Asus PC Model 2751,1943.14,3.2,PC,Asus,"Ryzen 5, 8GB RAM, 256GB SSD",PC from Asus equipped with Ryzen 5.
+Adidas Clothing Model 2167,3877.64,5.0,Clothing,Adidas,"Size: S, Wool, Blue",Clothing from Adidas equipped with Size: S.
+Under Armour Clothing Model 2398,2574.5,3.5,Clothing,Under Armour,"Size: S, Wool, Blue",Clothing from Under Armour equipped with Size: S.
+Under Armour Clothing Model 2111,4679.59,4.0,Clothing,Under Armour,"Size: L, Polyester, Black",Clothing from Under Armour equipped with Size: L.
+Bose Electronics Model 2802,4538.49,3.1,Electronics,Bose,"4K UHD, HDR10, WebOS",Electronics from Bose equipped with 4K UHD.
+Nike Clothing Model 2658,2247.98,3.5,Clothing,Nike,"Size: S, Wool, Blue",Clothing from Nike equipped with Size: S.
+Dell PC Model 2211,2438.08,4.9,PC,Dell,"Intel i7, 16GB RAM, 512GB SSD",PC from Dell equipped with Intel i7.
+Hot Wheels Toys Model 2964,4506.73,4.0,Toys,Hot Wheels,"500 pieces, Multi-color",Toys from Hot Wheels equipped with 500 pieces.
+Acer PC Model 2684,4887.85,4.3,PC,Acer,"Intel i9, 32GB RAM, 1TB SSD",PC from Acer equipped with Intel i9.
+Asus PC Model 2075,2337.03,3.2,PC,Asus,"Intel i7, 16GB RAM, 512GB SSD",PC from Asus equipped with Intel i7.
+Tesla Vehicles Model 2467,3582.22,3.8,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles from Tesla equipped with 1.5L Turbo.
+Nestle Food Model 2827,2313.59,4.5,Food,Nestle,"100g, Milk Chocolate",Food from Nestle equipped with 100g.
+Ford Vehicles Model 2060,1181.64,3.1,Vehicles,Ford,"V6 Engine, 4x4 Drive",Vehicles from Ford equipped with V6 Engine.
+Xiaomi Mobile Model 2161,189.68,3.1,Mobile,Xiaomi,"64GB, MediaTek",Mobile from Xiaomi equipped with 64GB.
+AliExpress E-Commerce Model 2552,3407.65,4.4,E-Commerce,AliExpress,"Bulk discounts, Direct from China",E-Commerce from AliExpress equipped with Bulk discounts.
+Samsung Tablet Model 2186,4305.85,4.6,Tablet,Samsung,"6GB RAM, 64GB, MediaTek",Tablet from Samsung equipped with 6GB RAM.
+Bose Electronics Model 2447,2694.54,3.7,Electronics,Bose,"1080p Full HD, Android TV",Electronics from Bose equipped with 1080p Full HD.
+eBay E-Commerce Model 2939,1213.19,4.2,E-Commerce,eBay,"Second-hand, Global shipping",E-Commerce from eBay equipped with Second-hand.
+Tesla Vehicles Model 2181,4707.22,4.3,Vehicles,Tesla,"1.5L Turbo, CVT",Vehicles from Tesla equipped with 1.5L Turbo.
+Microsoft Tablet Model 2167,3212.68,4.2,Tablet,Microsoft,"4GB RAM, 32GB, A12 Bionic",Tablet from Microsoft equipped with 4GB RAM.
